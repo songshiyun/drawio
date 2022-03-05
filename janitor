@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T09:10:20.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="xD0_-41gSh3CL3QKUrk8" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T09:12:15.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="-JZRtPnpwqkENe69pFk6" version="16.6.6" type="github">
   <diagram id="X9d_H9Oh_-nOGdMqfmXV" name="Page-1">
     <mxGraphModel dx="981" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,28 +26,28 @@
           <mxGeometry x="332.5" y="640" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="135" width="430" height="60" as="geometry" />
+          <mxGeometry x="520" y="135" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-10" value="领券中心金刚位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="145" width="100" height="40" as="geometry" />
+          <mxGeometry x="540" y="145" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-11" value="花费充值中心主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="145" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="145" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-12" value="UT福利中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="145" width="100" height="40" as="geometry" />
+          <mxGeometry x="810" y="145" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="215" width="430" height="60" as="geometry" />
+          <mxGeometry x="520" y="215" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-14" value="端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="545" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-15" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="670" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-16" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="810" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="710" height="100" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-43" value="统一触达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTiOvpK8feTDEf14P7ll-44" value="赤兔统一活动配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="135" width="160" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
