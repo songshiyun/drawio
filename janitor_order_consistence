@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T08:31:14.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="i3mCwMu-fPbdvXiAF6vb" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T11:08:22.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="uSb4S0t7ArQ9mHFM1pJU" version="16.6.6" type="github">
   <diagram id="-W_Zo6r0i6_9TThfpYNQ" name="Page-1">
     <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,11 +37,35 @@
         <mxCell id="5djvtViAyD9DLuRqir5f-13" value="绑券" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-14" target="5djvtViAyD9DLuRqir5f-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-14" target="5djvtViAyD9DLuRqir5f-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5djvtViAyD9DLuRqir5f-14" value="库存回滚" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="200" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-15" target="5djvtViAyD9DLuRqir5f-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="266" y="350" />
+              <mxPoint x="316" y="350" />
+              <mxPoint x="316" y="340" />
+              <mxPoint x="321" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5djvtViAyD9DLuRqir5f-15" value="福利金解冻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="285" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-16" target="5djvtViAyD9DLuRqir5f-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="340" />
+              <mxPoint x="321" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5djvtViAyD9DLuRqir5f-16" value="福利金扣出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="285" width="60" height="50" as="geometry" />
