@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T07:08:45.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="16.6.6" etag="0vEHA0cnrTw1wTuC99I5" type="github"><diagram id="zHMM0JU6OyLlJQcn9Dyh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-06T07:32:04.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="j7zyIlw_P7zBem1hWaQx" version="16.6.6" type="github">
+  <diagram id="zHMM0JU6OyLlJQcn9Dyh" name="Page-1">
+    <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-2" value="用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-3" value="911限流&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-8" value="活动信息缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-9" value="批次信息缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="180" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-10" value="库存信息缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-11" value="redis集中缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c1vvXg2ebgcFKR5uUg0q-12" value="localcache本地缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
