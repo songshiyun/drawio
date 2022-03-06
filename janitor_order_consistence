@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T11:08:22.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="uSb4S0t7ArQ9mHFM1pJU" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T11:08:38.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="IEfURTKHP4Q9CE_ymk3q" version="16.6.6" type="github">
   <diagram id="-W_Zo6r0i6_9TThfpYNQ" name="Page-1">
     <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
           <mxGeometry x="550" y="60" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5djvtViAyD9DLuRqir5f-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-10" target="5djvtViAyD9DLuRqir5f-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-10" target="5djvtViAyD9DLuRqir5f-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5djvtViAyD9DLuRqir5f-10" value="创建本地兑换记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
