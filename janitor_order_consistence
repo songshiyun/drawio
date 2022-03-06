@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T07:57:20.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="16.6.6" etag="qwBKT2vGPk3I5tT5IC2T" type="github"><diagram id="-W_Zo6r0i6_9TThfpYNQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-06T08:30:46.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Q7ZcIzZjcZMPzyFplIU0" version="16.6.6" type="github">
+  <diagram id="-W_Zo6r0i6_9TThfpYNQ" name="Page-1">
+    <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5djvtViAyD9DLuRqir5f-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-1" target="5djvtViAyD9DLuRqir5f-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-10" target="5djvtViAyD9DLuRqir5f-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-10" value="创建本地兑换记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-11" target="5djvtViAyD9DLuRqir5f-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-11" value="发起福利金冻结请求" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-12" target="5djvtViAyD9DLuRqir5f-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-12" value="扣减库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="300" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-13" value="绑券" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-14" value="库存回滚" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-15" value="福利金解冻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="285" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-16" value="福利金扣出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="285" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-17" value="更新兑换记录状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="360" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="5djvtViAyD9DLuRqir5f-18" target="5djvtViAyD9DLuRqir5f-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5djvtViAyD9DLuRqir5f-18" value="mq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="406" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
