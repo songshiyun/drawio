@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T09:52:27.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="l9dKYRbqv3OXUy4QbL3T" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T09:54:27.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="bLNhLGWy2IpvqaBlOVRt" version="16.6.6" type="github">
   <diagram id="X9d_H9Oh_-nOGdMqfmXV" name="Page-1">
     <mxGraphModel dx="1731" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,34 +170,34 @@
           <mxGeometry x="146" y="432" width="1034" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-40" value="秒杀列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="156" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="170" y="441" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-41" value="领券列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="266" y="442" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-42" value="助力列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320.5" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="370" y="441" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-43" value="助力详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401.5" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="466.5" y="441" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-44" value="助力历史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482.5" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="570" y="442" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-45" value="抽奖活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="568.5" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="666.5" y="442" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-46" value="奖励详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="658" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="770" y="441" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-47" value="资源位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="743" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="878.5" y="442" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-48" value="资源位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="824" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="976" y="442" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-49" value="资源位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="902.5" y="442" width="72" height="40" as="geometry" />
+          <mxGeometry x="1083.5" y="442" width="72" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-51" value="投放资源位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="291" width="100" height="40" as="geometry" />
