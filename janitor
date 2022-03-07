@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T09:20:29.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iLEZ7aK4p79sOBn-n8_J" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T09:27:01.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IM_WIYmmLCztC0suKbzt" version="16.6.6" type="github">
   <diagram id="X9d_H9Oh_-nOGdMqfmXV" name="Page-1">
     <mxGraphModel dx="1731" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A8axB-ha0EJowKb1dbhf-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="502" width="1034" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="538.5" y="520" width="460" height="350" as="geometry" />
         </mxCell>
@@ -65,10 +68,7 @@
           <mxGeometry x="263" y="198" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="159" y="880" width="839.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LTiOvpK8feTDEf14P7ll-46" value="驱动服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="898.5" y="890" width="88" height="60" as="geometry" />
+          <mxGeometry x="146" y="903" width="1034" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-48" value="抽奖策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358" y="632.5" width="120" height="60" as="geometry" />
@@ -201,6 +201,30 @@
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-51" value="投放资源位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868.5" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="517" width="140" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-54" value="网约车券系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="528" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-55" value="能源券系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="576" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-56" value="网约车券系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="629" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-57" value="驱动系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="679" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-58" value="大数据标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="728" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-59" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="776" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-60" value="裂变中台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="824" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
