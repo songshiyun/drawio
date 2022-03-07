@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T08:14:38.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="3G74dlkia7Mq3BTVs0OL" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T08:26:12.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MxKxUqe-yHSrHHm3n1mq" version="16.6.6" type="github">
   <diagram id="X9d_H9Oh_-nOGdMqfmXV" name="Page-1">
     <mxGraphModel dx="1088" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="339.5" y="477" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-40" value="领券策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359.5" y="497" width="120" height="60" as="geometry" />
+          <mxGeometry x="359.5" y="484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-44" value="赤兔统一活动配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="198" width="160" height="130" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="900" y="810" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-48" value="抽奖策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359.5" y="581.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="359.5" y="552.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTiOvpK8feTDEf14P7ll-49" value="福利金兑换策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359.5" y="667" width="120" height="60" as="geometry" />
+          <mxGeometry x="359.5" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8axB-ha0EJowKb1dbhf-1" target="A8axB-ha0EJowKb1dbhf-2">
           <mxGeometry relative="1" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="A8axB-ha0EJowKb1dbhf-32" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="769.5" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8axB-ha0EJowKb1dbhf-33" value="分享领券策略&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
