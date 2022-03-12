@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T07:43:41.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="88IZkCAcWCVMdh46tpaW" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T07:44:30.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="23eOOKPF76NoQa70sBwH" version="17.1.2" type="github">
   <diagram id="F2tb9mifbLuKnnfA15ua" name="Page-1">
     <mxGraphModel dx="1298" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="oCoRrVAfBxoE3nSwO9fv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="690" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="oCoRrVAfBxoE3nSwO9fv-14" value="活动管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCoRrVAfBxoE3nSwO9fv-14" value="活动管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="60" y="328" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCoRrVAfBxoE3nSwO9fv-15" value="活动缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCoRrVAfBxoE3nSwO9fv-15" value="活动缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="60" y="378" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCoRrVAfBxoE3nSwO9fv-16" value="操作日志管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCoRrVAfBxoE3nSwO9fv-16" value="操作日志管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="60" y="428" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCoRrVAfBxoE3nSwO9fv-17" value="通用过滤器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
