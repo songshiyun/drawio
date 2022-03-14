@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:16:15.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="VGUpdwuCcUbqyxQgQVh1" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:16:24.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="bddU6q-b-6l5y5Yn7oue" version="16.6.6" type="github">
   <diagram id="F2tb9mifbLuKnnfA15ua" name="Page-1">
     <mxGraphModel dx="1113" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="oCoRrVAfBxoE3nSwO9fv-40" value="大数据平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="378" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCoRrVAfBxoE3nSwO9fv-41" value="算法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oCoRrVAfBxoE3nSwO9fv-41" value="算法平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="428" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCoRrVAfBxoE3nSwO9fv-42" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
