@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T15:22:14.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="BezFNOiEy9TlnIZDVVne" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:24:20.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="bYdgU0qKk6WFA_PGd9X_" version="16.6.6" type="github">
   <diagram id="hv3kGb4K91_BnBNqQvV2" name="Page-1">
     <mxGraphModel dx="1113" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="540" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="obIEOYeEY-EKhV6uL3n4-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="157" width="540" height="100" as="geometry" />
         </mxCell>
@@ -60,6 +63,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="obIEOYeEY-EKhV6uL3n4-23" target="obIEOYeEY-EKhV6uL3n4-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="obIEOYeEY-EKhV6uL3n4-23" target="obIEOYeEY-EKhV6uL3n4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obIEOYeEY-EKhV6uL3n4-23" value="绑券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="530" width="117" height="40" as="geometry" />
         </mxCell>
@@ -85,9 +94,6 @@
         </mxCell>
         <mxCell id="obIEOYeEY-EKhV6uL3n4-36" value="reply&amp;lt;conf.stock" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="555" y="440" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="obIEOYeEY-EKhV6uL3n4-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="580" width="540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="obIEOYeEY-EKhV6uL3n4-49" value="" style="shape=card;whiteSpace=wrap;html=1;labelBorderColor=none;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="370" y="170.5" width="57.97" height="71.5" as="geometry" />
@@ -138,6 +144,15 @@
         </mxCell>
         <mxCell id="obIEOYeEY-EKhV6uL3n4-70" value="为什么绑券不采用异步(和购买商品的差异)&lt;br&gt;lua -&amp;gt; incr -&amp;gt; cmp(reply,stock)-&amp;gt;(decr)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="10" y="650" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-71" value="绑券数据同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-72" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBorderColor=none;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="353" y="590" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-73" value="publiclog" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBorderColor=none;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
