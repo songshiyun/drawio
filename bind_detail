@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:33:33.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Xm1vw8aw-77ZSoSHK6G5" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:42:30.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="fqNbXStzhHqS2OHZ8aMn" version="16.6.6" type="github">
   <diagram id="nSOQ5PHSSXdBeLyJ7LvI" name="Page-1">
     <mxGraphModel dx="1183" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,6 +134,42 @@
         </mxCell>
         <mxCell id="NKDqUZx0lPNQNbVziGd3-2" value="风控处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="423.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-16" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;dashed=1;size=40;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="355.75" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-17" value="实验过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="388.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-18" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;dashed=1;size=40;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="418.75" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-19" value="人群过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="448.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-20" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;dashed=1;size=40;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="484.5" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-21" value="城市过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-22" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;dashed=1;size=40;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="549.75" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-23" value="频次过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="582.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-25" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;dashed=1;size=40;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="612.75" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-26" value="环境过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="644.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-27" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;dashed=1;size=40;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="675.75" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-28" value="算法库存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="707.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
