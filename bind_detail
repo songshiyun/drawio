@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:04:34.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="U0gkbqLtYkTx3J043939" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:04:49.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="x3BZXpE-SW_9xMPOc_hy" version="16.6.6" type="github">
   <diagram id="nSOQ5PHSSXdBeLyJ7LvI" name="Page-1">
     <mxGraphModel dx="901" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,6 +56,9 @@
           <mxGeometry x="577.5" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x-yLB4dbRSOg_8qxkdkQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x-yLB4dbRSOg_8qxkdkQ-33" target="x-yLB4dbRSOg_8qxkdkQ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKDqUZx0lPNQNbVziGd3-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x-yLB4dbRSOg_8qxkdkQ-33" target="x-yLB4dbRSOg_8qxkdkQ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x-yLB4dbRSOg_8qxkdkQ-33" value="分发绑券结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
