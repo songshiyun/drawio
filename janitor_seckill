@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T15:25:14.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="epYjB1RrXDoVxAQKb3dH" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:25:57.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="JnJsEzbaT7Gw3r1VvF8Y" version="16.6.6" type="github">
   <diagram id="hv3kGb4K91_BnBNqQvV2" name="Page-1">
     <mxGraphModel dx="1113" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="obIEOYeEY-EKhV6uL3n4-73" value="publiclog" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBorderColor=none;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="440" y="590" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obIEOYeEY-EKhV6uL3n4-77" value="&lt;font color=&quot;#ff0000&quot;&gt;流量&lt;/font&gt;" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;labelBorderColor=none;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="182" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
