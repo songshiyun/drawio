@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:19:15.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="kEbB5ej4XFTwfYRafp2Y" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T14:21:26.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="krv1wzL1vtMnWhYMQ_ax" version="17.1.2" type="github">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="1113" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,54 @@
         </mxCell>
         <mxCell id="EighGNQT4RQHR0xo6HHO-38" value="......" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="190" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-39" value="短信" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-40" value="端外push" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="378" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-41" value="IM消息" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-42" value="邮件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="378" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-43" value="小程序订阅" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-44" value="播报" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-45" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-46" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-47" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="481" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-48" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="568" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-49" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-50" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="568" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-51" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="481" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-52" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="568" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-53" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-54" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="565" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
