@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:15:02.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="skEMgQaqEz-BR-uxlqZS" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T14:19:15.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="kEbB5ej4XFTwfYRafp2Y" version="17.1.2" type="github">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
-    <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,30 @@
         </mxCell>
         <mxCell id="EighGNQT4RQHR0xo6HHO-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-29" value="网约车券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-32" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-33" value="金融券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-34" value="商家券" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-35" value="积分" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-36" value="权益" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-37" value="代币" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EighGNQT4RQHR0xo6HHO-38" value="......" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
