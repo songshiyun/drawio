@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:33:35.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="oxrazzM_N8RwFRJJKdC9" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T14:34:49.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Co5i7iQkKgdMzamULWf9" version="17.1.2" type="github">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2282" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,28 +130,28 @@
         <mxCell id="EighGNQT4RQHR0xo6HHO-49" value="金融零钱" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;gradientDirection=east;fillColor=#D6F4FF;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="710" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-57" value="券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-57" value="券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94" y="577.5" width="91" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-58" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-58" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203" y="577.5" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-59" value="支付中台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-59" value="支付中台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="314" y="577.5" width="98" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-60" value="DMC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-60" value="DMC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="436" y="577.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-61" value="金融系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-61" value="金融系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="559" y="577.5" width="97" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-62" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-62" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="681" y="577.5" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EighGNQT4RQHR0xo6HHO-63" value="下游回调队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="EighGNQT4RQHR0xo6HHO-63" value="&lt;font color=&quot;#000000&quot;&gt;下游回调队列&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=14;fontColor=#FF3333;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="830" y="430" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EighGNQT4RQHR0xo6HHO-64" value="回调处理模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;" vertex="1" parent="1">
