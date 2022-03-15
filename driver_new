@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:44:40.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="vx5OqxOQ1t1LZOqI4-pi" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T14:45:26.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="7VLetdHutOmiIDlqo906" version="17.1.2" type="github">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
-    <mxGraphModel dx="2371" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2609" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,19 @@
         </mxCell>
         <mxCell id="EighGNQT4RQHR0xo6HHO-22" value="错误重试队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=14;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="490" y="300" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u0l3w5ojB6Os9KmysAUc-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="EighGNQT4RQHR0xo6HHO-24" target="EighGNQT4RQHR0xo6HHO-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="433" />
+              <mxPoint x="850" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0l3w5ojB6Os9KmysAUc-6" value="Callback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="u0l3w5ojB6Os9KmysAUc-5">
+          <mxGeometry x="-0.0147" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EighGNQT4RQHR0xo6HHO-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF3333;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="660" y="385" width="120" height="190" as="geometry" />
