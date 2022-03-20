@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T08:16:14.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="WgihrqRZzb-hybycPqjm" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T08:22:59.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="fK5EeKjok7cTfniwcAY4" version="17.1.3" type="github">
   <diagram id="5RHfVuD693Xdz6P3vpPz" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,8 +155,8 @@
         <mxCell id="8IS55bjENmDuMfAKFVJn-63" value="资源位" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#7EA6E0;strokeColor=#7EA6E0;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="34" y="221" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="8IS55bjENmDuMfAKFVJn-70" value="DAU+Cross" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="60" y="640" width="60" height="30" as="geometry" />
+        <mxCell id="8IS55bjENmDuMfAKFVJn-70" value="DAU+Cross&lt;br&gt;拆解的图：怎么样达成这个目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="70" y="490" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MmXxh9tFxRNcxRM11oJx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="20" y="370" width="1030" height="70" as="geometry" />
