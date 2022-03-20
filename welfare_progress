@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T10:41:25.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="dhaohRyEsFhqZYMbno2J" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T10:47:03.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="KKewcpCyoXL9HKSzPa0c" version="17.1.3" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="120" height="280" as="geometry" />
+          <mxGeometry x="120" y="160" width="120" height="320" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="360" height="210" as="geometry" />
@@ -44,16 +44,19 @@
           <mxGeometry x="650" y="313" width="20" height="12" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-16" value="活动聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="140" y="195" width="80" height="35" as="geometry" />
+          <mxGeometry x="140" y="194" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oqMKlLS1HC7-YwmFVjuI-17" value="任务包装&lt;br&gt;完单任务&lt;br&gt;CC任务&lt;br&gt;浏览任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="80" height="80" as="geometry" />
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-17" value="任务包装&lt;br&gt;完单任务&lt;br&gt;CC任务&lt;br&gt;浏览任务&lt;br&gt;签到任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="140" y="238" width="80" height="92" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-18" value="玩法包装" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="140" y="325" width="80" height="35" as="geometry" />
+          <mxGeometry x="140" y="343" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-19" value="资产聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="80" height="35" as="geometry" />
+          <mxGeometry x="140" y="387" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-20" value="资源位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="140" y="432" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
