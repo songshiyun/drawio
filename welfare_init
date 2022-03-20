@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T05:41:55.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="BgEkGnXsOs0CPLqWRJvI" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T05:42:03.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="PuNNe6nu7VGSx_N9ntR2" version="17.1.3" type="github">
   <diagram id="5RHfVuD693Xdz6P3vpPz" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="900" y="238" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8IS55bjENmDuMfAKFVJn-40" value="丰富玩法&lt;br&gt;提升用户参与率&lt;br&gt;留存率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#009999;" vertex="1" parent="1">
-          <mxGeometry x="560" y="198" width="60" height="90" as="geometry" />
+          <mxGeometry x="560" y="202" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
