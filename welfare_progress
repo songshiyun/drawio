@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T09:47:16.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="wV38FcQ4keXH1HmmI0d7" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T09:47:30.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Ym7t41ffFBkhcyWcW4KE" version="17.1.3" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-8" value="封皮接入层" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-9" value="任务中台" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
