@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T12:39:27.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="PC4IlcC2RoAmtcoKlADA" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T12:40:49.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="B5zFkTTlwv9sijl9LmcG" version="17.1.3" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="1366" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-24" value="浏览任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="488" y="174" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqMKlLS1HC7-YwmFVjuI-25" value="1.分层构建，适应多种活动类型&lt;br&gt;2.玩法定制化,核心流程收敛、整个生命周期的触达&lt;br&gt;3.dau+cross+福利金全平台核销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="25" y="640" width="185" height="140" as="geometry" />
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-25" value="1.分层构建，适应多种活动类型&lt;br&gt;2.玩法定制化,核心流程收敛、整个生命周期的触达&lt;br&gt;3.dau+cross(业务线完单)+福利金全平台核销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="25" y="640" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-26" value="用户访问" style="text;html=1;strokeColor=#36393d;fillColor=#f9f7ed;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="9" y="351" width="60" height="30" as="geometry" />
