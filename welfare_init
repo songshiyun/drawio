@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T08:09:00.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="HtEnUyMRdtAK23jnZ3xn" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T08:10:01.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="_ANNVlLBo3Bsg4I3wY46" version="17.1.3" type="github">
   <diagram id="5RHfVuD693Xdz6P3vpPz" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,14 +161,20 @@
         <mxCell id="MmXxh9tFxRNcxRM11oJx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="20" y="370" width="1030" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MmXxh9tFxRNcxRM11oJx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shape=arrow;endSize=1;" edge="1" parent="1" source="MmXxh9tFxRNcxRM11oJx-3" target="MmXxh9tFxRNcxRM11oJx-4">
+        <mxCell id="MmXxh9tFxRNcxRM11oJx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="MmXxh9tFxRNcxRM11oJx-3" target="MmXxh9tFxRNcxRM11oJx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmXxh9tFxRNcxRM11oJx-3" value="用户参与" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#fad7ac;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="70" y="380" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MmXxh9tFxRNcxRM11oJx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="MmXxh9tFxRNcxRM11oJx-4" target="MmXxh9tFxRNcxRM11oJx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MmXxh9tFxRNcxRM11oJx-4" value="完成任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#fad7ac;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="335" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXxh9tFxRNcxRM11oJx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="MmXxh9tFxRNcxRM11oJx-5" target="MmXxh9tFxRNcxRM11oJx-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmXxh9tFxRNcxRM11oJx-5" value="获得奖励" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#fad7ac;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="140" height="40" as="geometry" />
