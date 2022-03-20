@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T12:08:28.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="geCCrQ6FcMTaulST-1_n" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T12:08:54.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="RMNQZo04T18uXYzf5sOs" version="17.1.3" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="1366" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,13 +176,16 @@
           <mxGeometry x="560" y="258.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-70" value="奖励到账提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="539" y="325" width="102" height="31" as="geometry" />
+          <mxGeometry x="539" y="324" width="102" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-71" value="活动开始提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="538" y="364" width="102" height="31" as="geometry" />
+          <mxGeometry x="538" y="359" width="102" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-72" value="券过期提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="539" y="401" width="102" height="31" as="geometry" />
+          <mxGeometry x="539" y="395" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-73" value="券过期提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="538" y="431" width="102" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
