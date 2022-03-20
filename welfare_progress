@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T12:01:04.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Ou8eZ5gzwVtiCFh6gpyg" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T12:02:23.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="QyCBys4gQW_GrnGsVSzK" version="17.1.3" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="1366" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,6 +156,21 @@
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-61" value="奖励" style="text;html=1;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="425" y="256.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-62" value="代币" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="402" y="285.5" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-63" value="福利金" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="403" y="323" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-64" value="微信零钱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="403" y="359" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-65" value="滴滴零钱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="403" y="396" width="102" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-66" value="券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="405" y="433" width="102" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
