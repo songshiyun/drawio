@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T07:06:43.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="HYINIZFk2kQzEb0j6mpc" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T08:52:09.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="YHGVqjEWy7P08j0hTsXQ" version="17.4.0" type="github">
   <diagram id="F2tb9mifbLuKnnfA15ua" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,21 @@
         </mxCell>
         <mxCell id="IsdZkVKVhsihl7NHPYvn-4" value="能源券系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="488" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q7RrRJib4InKjJOLG-W7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7RrRJib4InKjJOLG-W7-1" target="q7RrRJib4InKjJOLG-W7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7RrRJib4InKjJOLG-W7-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7RrRJib4InKjJOLG-W7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7RrRJib4InKjJOLG-W7-2" target="q7RrRJib4InKjJOLG-W7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7RrRJib4InKjJOLG-W7-2" value="活动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7RrRJib4InKjJOLG-W7-4" value="奖励" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
