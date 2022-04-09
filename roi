@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T07:52:58.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="17.4.1" etag="dGKdplREZOotxjh9kE7K" type="github"><diagram id="DHD7rf09Lv-LO5vMY0BF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-09T07:57:42.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="1tinv-TeKVK1ka-h1wxs" version="17.4.1" type="github">
+  <diagram id="DHD7rf09Lv-LO5vMY0BF" name="Page-1">
+    <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2LuoeXX_-uJjWQ5GQhSk-1" value="怎么样控制钱效：营销活动的本质是花更少的钱拉来更多的用户；&lt;br&gt;怎么样把更少的钱花在更有价值的用户上" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
