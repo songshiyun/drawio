@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T06:51:41.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="FJGJG8RUn9N7EMK8xTED" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T09:08:25.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="AfY9c0uP55j1RGpO0HwN" version="17.4.1" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="aDDxaktzLfXatcJG3qTw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="79" y="495" width="732" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="aDDxaktzLfXatcJG3qTw-5" value="gorm2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="91" y="506" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-84" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=8;fillColor=#009999;opacity=40;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="438" y="208" width="14" height="20" as="geometry" />
@@ -211,14 +208,14 @@
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-73" value="券过期提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="528" y="431" width="102" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="aDDxaktzLfXatcJG3qTw-4" value="shipfram" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="79" y="495" width="70" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-77" value="完单任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="569" y="174" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDDxaktzLfXatcJG3qTw-1" value="弹窗管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="99" y="366" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="aDDxaktzLfXatcJG3qTw-4" value="shipfram" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="79" y="495" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aDDxaktzLfXatcJG3qTw-6" value="redis-client-warp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="190" y="503.5" width="80" height="30" as="geometry" />
@@ -237,6 +234,9 @@
         </mxCell>
         <mxCell id="aDDxaktzLfXatcJG3qTw-11" value="......" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="712" y="503.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDDxaktzLfXatcJG3qTw-5" value="gorm2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="91" y="506" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
