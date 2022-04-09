@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T08:46:20.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="yCSQOoA52pxGMI_FZNtV" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T08:47:54.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="_qIxIxgG4NpqjtvOVIH8" version="17.4.1" type="github">
   <diagram id="DHD7rf09Lv-LO5vMY0BF" name="Page-1">
     <mxGraphModel dx="2354" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,10 +80,10 @@
           <mxGeometry x="734" y="133" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2LuoeXX_-uJjWQ5GQhSk-17" value="核销数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="123.25" y="290" width="90" height="30" as="geometry" />
+          <mxGeometry x="122.25" y="276" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2LuoeXX_-uJjWQ5GQhSk-18" value="绑券数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="123.25" y="340" width="90" height="30" as="geometry" />
+          <mxGeometry x="123.25" y="313" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2LuoeXX_-uJjWQ5GQhSk-19" value="绑券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="350" width="120" height="30" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="2LuoeXX_-uJjWQ5GQhSk-50" value="Apollo" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="782" y="226" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LuoeXX_-uJjWQ5GQhSk-51" value="券配置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123.25" y="353" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
