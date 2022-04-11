@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:39:28.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="6f428PhVL-W0mGlPcY8F" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T14:42:00.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="2hS7evJoCDckXV9CdRWZ" version="17.1.2" type="github" pages="2">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1773" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,33 @@
         </mxCell>
         <mxCell id="e-hl3Q0wTbTcqPRrF07m-4" value="通用逻辑" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="515" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-5" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="66" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-6" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="104" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-7" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="141" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-8" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="177" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-9" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="214.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-10" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="251.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-11" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="288.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-12" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="328" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-13" value="券缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="731" y="363.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
