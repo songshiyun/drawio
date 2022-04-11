@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:30:42.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="78tQneiWPkQgyC0PSzrE" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T14:31:03.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="eL5UP9tejLj22LNlRDDg" version="17.1.2" type="github" pages="2">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="ew4SFdMlimYf-3dffc4t-8" value="用户访问入口" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="64" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4SFdMlimYf-3dffc4t-9" value="流量接入层" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="105" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
