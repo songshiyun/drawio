@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:21:37.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0juvC7OSXYW7PP61QHPa" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T14:22:54.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="r9n8_qZbzdNT50SQFwVu" version="17.1.2" type="github" pages="2">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="946" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,16 +17,16 @@
           <mxGeometry x="87" y="201" width="153" height="187" as="geometry" />
         </mxCell>
         <mxCell id="_SBjh2SKLZiY8MwoYNsg-1" value="赤兔活动管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="80" width="150" height="40" as="geometry" />
+          <mxGeometry x="80" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_SBjh2SKLZiY8MwoYNsg-2" value="领券中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="150" height="40" as="geometry" />
+          <mxGeometry x="239" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_SBjh2SKLZiY8MwoYNsg-3" value="充值中心助力券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="80" width="150" height="40" as="geometry" />
+          <mxGeometry x="400" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_SBjh2SKLZiY8MwoYNsg-4" value="福利中心兑换券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="80" width="150" height="40" as="geometry" />
+          <mxGeometry x="560" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_SBjh2SKLZiY8MwoYNsg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="600" height="30" as="geometry" />
