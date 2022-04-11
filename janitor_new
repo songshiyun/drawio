@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:37:00.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="4J7I9fYwikkiGPjHwctQ" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T14:37:50.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="jnY_M2IUI0NAmsk8ze9O" version="17.1.2" type="github" pages="2">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1773" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="ew4SFdMlimYf-3dffc4t-13" value="基础服务" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2" y="466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-hl3Q0wTbTcqPRrF07m-2" value="活动管理" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="117" y="191" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
