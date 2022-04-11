@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:08:37.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6rG8VLzD05cUcj6Zhr9L" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:10:07.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="l6ERVasvYMiQUsslFOBs" version="17.4.2" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="943" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,11 +61,11 @@
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-16" value="活动聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="99" y="184" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oqMKlLS1HC7-YwmFVjuI-17" value="任务包装&lt;br&gt;完单任务&lt;br&gt;CC任务&lt;br&gt;浏览任务&lt;br&gt;签到任务&lt;br&gt;裂变任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="99" y="222" width="80" height="102" as="geometry" />
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-17" value="任务包装&lt;br&gt;完单任务&lt;br&gt;CC任务&lt;br&gt;浏览任务&lt;br&gt;裂变任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="99" y="222" width="80" height="78" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-18" value="玩法包装" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="99" y="327" width="80" height="35" as="geometry" />
+          <mxGeometry x="99" y="304" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-19" value="资产聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="99" y="404" width="80" height="35" as="geometry" />
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="jxd6f4D0kGE56jIoRRLS-2" value="签到" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="260" y="403" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jxd6f4D0kGE56jIoRRLS-4" value="智能推荐" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="99" y="334" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
