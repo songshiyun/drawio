@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:10:43.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="FSHJ5nqCvD9iPywULe2U" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:10:49.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="U3REt1Cm_QBN9eSHv7mD" version="17.4.2" type="github">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="Page-1">
     <mxGraphModel dx="943" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="99" y="222" width="80" height="78" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-18" value="玩法包装" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="99" y="304" width="80" height="30" as="geometry" />
+          <mxGeometry x="99" y="305" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-19" value="资产聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="99" y="412" width="80" height="30" as="geometry" />
