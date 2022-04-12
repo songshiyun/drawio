@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T11:37:32.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="9NdlV2A4OJx17P3CJSJh" version="17.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-12T11:38:31.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6gA25SVFjgiRoO8pGjPg" version="17.4.2" type="github" pages="3">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
-    <mxGraphModel dx="1816" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PG9r-e7fLg0KkWlmbfCi" name="seckill">
-    <mxGraphModel dx="989" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,6 +444,14 @@
         <mxCell id="TjMK1HL--xLuz0i7QyEs-50" value="localcache" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="318.5" width="80" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z8p-ksN0f5Zsso1r4yUK" name="order_consistent">
+    <mxGraphModel dx="1201" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
