@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T14:02:35.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="9aDW5HuX8383KPgqaqCc" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-12T14:03:45.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="tQbhMyWGwOJoQ68On0Zq" version="17.1.2" type="github" pages="2">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,6 +278,12 @@
         </mxCell>
         <mxCell id="8g2bjuCSJIJVHoXqL-s8-13" value="上游回调接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8g2bjuCSJIJVHoXqL-s8-1">
           <mxGeometry x="150" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g2bjuCSJIJVHoXqL-s8-15" value="驱动触达发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8g2bjuCSJIJVHoXqL-s8-1">
+          <mxGeometry x="275" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g2bjuCSJIJVHoXqL-s8-16" value="fusion触达记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8g2bjuCSJIJVHoXqL-s8-1">
+          <mxGeometry x="275" y="490" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
