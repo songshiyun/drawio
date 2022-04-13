@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T13:04:28.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="jZA2GH6w52-aWDlDQwa7" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-13T13:05:06.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="3YGk8I5AIfmQapJXzSwI" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,20 +438,20 @@
         <mxCell id="xp9RW77e0X6ua2yJmmgK-33" value="......" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-34" value="整合营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="150" height="60" as="geometry" />
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-34" value="整合营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-39" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="150" height="60" as="geometry" />
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-39" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-40" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="329" y="130" width="150" height="60" as="geometry" />
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-40" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="329" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-41" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="479" y="130" width="150" height="60" as="geometry" />
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-41" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="479" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-43" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="130" width="150" height="60" as="geometry" />
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-43" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
