@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:14:10.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="LqmQ-tudECQTYiYsqrmr" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:14:19.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PZqN_2716wpMzJ-7bItM" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -399,7 +399,7 @@
         <mxCell id="xp9RW77e0X6ua2yJmmgK-5" value="日常领券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="300" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-6" value="签到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-6" value="裂变助力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-7" value="签到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
