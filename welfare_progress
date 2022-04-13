@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:15:22.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wajyst1bHuhn9k5Fbukq" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:20:10.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="zFQj-WEwRcrgaq8V0nry" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,20 +405,8 @@
         <mxCell id="xp9RW77e0X6ua2yJmmgK-7" value="天降" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-8" value="签到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="370" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-9" value="秒杀" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="370" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-10" value="日常领券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="370" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-11" value="裂变助力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-12" value="天降" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="370" width="100" height="50" as="geometry" />
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-15" value="签到活动" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
