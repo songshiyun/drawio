@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T15:12:12.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="whjMyKmwIQpBJguM56oB" version="17.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:11:19.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="v9_9F86b2OOdo4BbAfUo" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,28 +357,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tgg6JdgGw7fjLTzwwHgo" name="reward_model">
-    <mxGraphModel dx="1261" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5oyhEtvISUJZ_MxT4RXe-0" />
         <mxCell id="5oyhEtvISUJZ_MxT4RXe-1" parent="5oyhEtvISUJZ_MxT4RXe-0" />
-        <mxCell id="O7aftiKrCSpYme_CmVNi-0" value="奖励发放接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="5oyhEtvISUJZ_MxT4RXe-1">
+        <mxCell id="O7aftiKrCSpYme_CmVNi-0" value="奖励发放接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="5oyhEtvISUJZ_MxT4RXe-1" vertex="1">
           <mxGeometry x="250" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O7aftiKrCSpYme_CmVNi-1" value="参数校验" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="5oyhEtvISUJZ_MxT4RXe-1">
+        <mxCell id="O7aftiKrCSpYme_CmVNi-1" value="参数校验" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="5oyhEtvISUJZ_MxT4RXe-1" vertex="1">
           <mxGeometry x="270" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O7aftiKrCSpYme_CmVNi-2" value="幂等校验" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="5oyhEtvISUJZ_MxT4RXe-1">
+        <mxCell id="O7aftiKrCSpYme_CmVNi-2" value="幂等校验" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="5oyhEtvISUJZ_MxT4RXe-1" vertex="1">
           <mxGeometry x="270" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O7aftiKrCSpYme_CmVNi-3" value="生成奖励记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="5oyhEtvISUJZ_MxT4RXe-1">
+        <mxCell id="O7aftiKrCSpYme_CmVNi-3" value="生成奖励记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="5oyhEtvISUJZ_MxT4RXe-1" vertex="1">
           <mxGeometry x="250" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O7aftiKrCSpYme_CmVNi-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;是否延迟发送&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="5oyhEtvISUJZ_MxT4RXe-1">
+        <mxCell id="O7aftiKrCSpYme_CmVNi-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;是否延迟发送&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="5oyhEtvISUJZ_MxT4RXe-1" vertex="1">
           <mxGeometry x="270" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O7aftiKrCSpYme_CmVNi-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=12;" vertex="1" parent="5oyhEtvISUJZ_MxT4RXe-1">
+        <mxCell id="O7aftiKrCSpYme_CmVNi-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=12;" parent="5oyhEtvISUJZ_MxT4RXe-1" vertex="1">
           <mxGeometry x="440" y="437.5" width="150" height="45" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xL-3rwrH5eL68un8xNvA" name="activity_pool">
+    <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
