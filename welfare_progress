@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:34:50.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="w06nVrKFCaD4ko9F5_N7" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:34:57.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="rIPKs2r5Z3QeWzeoLt2P" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1038" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -396,7 +396,7 @@
         <mxCell id="xp9RW77e0X6ua2yJmmgK-18" value="秒杀活动" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="200" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xp9RW77e0X6ua2yJmmgK-19" value="签到活动" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="xp9RW77e0X6ua2yJmmgK-19" value="每日领券" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="344" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-20" value="签到活动" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
