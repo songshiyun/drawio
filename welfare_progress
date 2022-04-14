@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T03:31:41.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1p6GQtCNFaw1a7XNeORj" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-14T03:32:35.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="NWxvh0lkBeI2h2VETsCt" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1042" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,19 +459,19 @@
         <mxCell id="YG-zQpMKTPuzihTARl2O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="750" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YG-zQpMKTPuzihTARl2O-3" value="网约车券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YG-zQpMKTPuzihTARl2O-4" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YG-zQpMKTPuzihTARl2O-5" value="滴滴零钱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YG-zQpMKTPuzihTARl2O-6" value="微信零钱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YG-zQpMKTPuzihTARl2O-7" value="福利金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
