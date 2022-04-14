@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T03:35:33.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="nVFPDpV0e5jUoNt8kU1R" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-14T03:40:11.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="fYt10tIvZKSoGh50s73E" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1042" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YG-zQpMKTPuzihTARl2O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="480" width="750" height="70" as="geometry" />
+          <mxGeometry x="30" y="480" width="750" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-11" value="奖励斥" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="60" height="30" as="geometry" />
@@ -463,28 +463,40 @@
           <mxGeometry x="30" y="142" width="750" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-3" value="网约车券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-4" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="223" y="500" width="80" height="40" as="geometry" />
+        <mxCell id="YG-zQpMKTPuzihTARl2O-5" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;滴滴零钱&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-6" value="滴滴零钱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="500" width="80" height="40" as="geometry" />
+        <mxCell id="YG-zQpMKTPuzihTARl2O-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;微信零钱&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-7" value="微信零钱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408" y="500" width="80" height="40" as="geometry" />
+        <mxCell id="YG-zQpMKTPuzihTARl2O-7" value="福利金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-8" value="福利金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="500" width="80" height="40" as="geometry" />
+        <mxCell id="YG-zQpMKTPuzihTARl2O-8" value="代币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-9" value="乘客积分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="290" y="560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YG-zQpMKTPuzihTARl2O-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="688" y="500" width="80" height="40" as="geometry" />
+        <mxCell id="YG-zQpMKTPuzihTARl2O-10" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YG-zQpMKTPuzihTARl2O-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;......&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YG-zQpMKTPuzihTARl2O-13" value="&lt;font face=&quot;helvetica&quot;&gt;金融现金&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YG-zQpMKTPuzihTARl2O-14" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;微信零钱&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YG-zQpMKTPuzihTARl2O-15" value="&lt;font face=&quot;helvetica&quot;&gt;实物奖励&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
