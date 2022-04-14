@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T03:27:58.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6Gk-dtKAc1eERbO8bYbj" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-14T03:28:40.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="HUQfhB_SVMeKoU_PjMsz" version="17.4.2" type="github" pages="4">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1042" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,7 +412,7 @@
           <mxGeometry x="200" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-25" value="摇一摇" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="353.5" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-26" value="兑换活动" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="345" y="305" width="120" height="60" as="geometry" />
@@ -430,10 +430,10 @@
           <mxGeometry x="60" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-31" value="集卡活动" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-32" value="摇一摇" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="490" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xp9RW77e0X6ua2yJmmgK-33" value="......" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
@@ -454,7 +454,7 @@
           <mxGeometry x="630" y="61" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-1" value="赤兔&amp;amp;WebX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="144" width="750" height="40" as="geometry" />
+          <mxGeometry x="30" y="142" width="750" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YG-zQpMKTPuzihTARl2O-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="750" height="70" as="geometry" />
