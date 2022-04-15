@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T09:01:31.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xMSSVZz0TSb6IMwokVSP" version="17.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-15T09:02:12.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="LWM1g-N6a98VKx8Rk1Lv" version="17.4.2" type="github" pages="9">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -810,6 +810,12 @@
         </mxCell>
         <mxCell id="1NcbbkBD5kVUcVjM0e5M-33" value="10元打车券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="284.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TlGZewOXUTgaa5NqlGOu-21" value="活动配置" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="133" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlGZewOXUTgaa5NqlGOu-22" value="活动配置" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="257.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
