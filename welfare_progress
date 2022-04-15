@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T17:05:19.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="gWXdPwamTPGDreGd1qVU" version="17.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-15T17:05:29.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="s6iG68u-Sp2-EXPyT0Fp" version="17.4.2" type="github" pages="10">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -933,7 +933,7 @@
         <mxCell id="zJ-2eyZWZURm2JWVORCX-40" value="批次I" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="50" y="197" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zJ-2eyZWZURm2JWVORCX-41" value="批次ID-II" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=40;" vertex="1" parent="1">
+        <mxCell id="zJ-2eyZWZURm2JWVORCX-41" value="批次II" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="50" y="262" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
