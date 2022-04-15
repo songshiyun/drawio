@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T08:35:44.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="lbRvnxYUm2iC5nNxziLf" version="17.4.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-15T08:36:13.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="s7ghmIHAY4pJWyBWf6UV" version="17.4.2" type="github" pages="9">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -677,6 +677,14 @@
         <mxCell id="4HouRcDCnhr3mmi_2Bjq-6" value="橙心券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="201" width="120" height="35" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kjgVf45ZjbNwQ8dC7L0I" name="策略demo">
+    <mxGraphModel dx="814" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
