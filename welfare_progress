@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T08:11:04.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_ZLLvKkUVxnaP5TrniYq" version="17.4.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-15T08:13:58.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="poqFb2V58NNhwZYxf4id" version="17.4.2" type="github" pages="8">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -653,6 +653,29 @@
         </mxCell>
         <mxCell id="XivFAPLwRlHsvBu7wx-l-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pFNJjPKM5-LIQFenlY50" name="Page-8">
+    <mxGraphModel dx="814" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g4-QxyAipJTlR1uhq7ou-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4HouRcDCnhr3mmi_2Bjq-1" value="网约车券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="84" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4HouRcDCnhr3mmi_2Bjq-4" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="124" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4HouRcDCnhr3mmi_2Bjq-5" value="金融券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="163" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4HouRcDCnhr3mmi_2Bjq-6" value="橙心券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="201" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
