@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T08:36:13.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="s7ghmIHAY4pJWyBWf6UV" version="17.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-15T08:40:57.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PlTqKp9bCor5KLyxGirZ" version="17.4.2" type="github" pages="9">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -685,6 +685,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="580" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-2" value="秒杀活动1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="155" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="125" width="190" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="132" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-6" value="新&lt;br&gt;用&lt;br&gt;户&lt;br&gt;标&lt;br&gt;签" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236" y="162" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="132" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-9" value="实&lt;br&gt;验&lt;br&gt;组&lt;br&gt;II" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="162" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="132.5" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-11" value="新&lt;br&gt;用&lt;br&gt;户&lt;br&gt;标&lt;br&gt;签" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326" y="162.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="132.5" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1NcbbkBD5kVUcVjM0e5M-13" value="新&lt;br&gt;用&lt;br&gt;户&lt;br&gt;标&lt;br&gt;签" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="162.5" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
