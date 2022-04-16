@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T13:41:48.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="YCHqdpXH0Z8qFn2yaa5N" version="17.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-16T13:42:08.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="aqW2PQykt3BlEw39oOAp" version="17.4.2" type="github" pages="3">
   <diagram id="ZGOOZI6QqeTSAWxBpzzP" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,6 +254,9 @@
         </mxCell>
         <mxCell id="XSgoeb0ZYSFB4uJKWvjy-14" value="消息号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="308" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XSgoeb0ZYSFB4uJKWvjy-15" value="其他下游渠道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="356" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
