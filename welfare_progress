@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T12:25:45.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="VIIq8xvCTahF7do7L0xH" version="17.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-16T12:42:14.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1c2Ncb3esUFznVEhWpv4" version="17.4.2" type="github" pages="12">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,9 +84,6 @@
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-24" value="浏览任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="488" y="174" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oqMKlLS1HC7-YwmFVjuI-25" value="1.分层构建，适应多种活动类型&lt;br&gt;2.玩法定制化,核心流程收敛、整个生命周期的触达&lt;br&gt;3.dau+cross(业务线完单)+福利金全平台核销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="25" y="640" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-26" value="用户访问" style="text;html=1;strokeColor=#36393d;fillColor=#f9f7ed;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="9" y="351" width="60" height="30" as="geometry" />
@@ -251,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iC3cC-fhRgWUsATb_Oph" name="notify_model">
-    <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8g2bjuCSJIJVHoXqL-s8-0" />
         <mxCell id="8g2bjuCSJIJVHoXqL-s8-1" parent="8g2bjuCSJIJVHoXqL-s8-0" />
@@ -352,6 +349,9 @@
         </mxCell>
         <mxCell id="8g2bjuCSJIJVHoXqL-s8-38" value="消息发送调度引擎" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="8g2bjuCSJIJVHoXqL-s8-1" vertex="1">
           <mxGeometry x="265" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6tg4lqWZFctE0XhDeW3_-0" value="1.分层构建，适应多种活动类型&lt;br&gt;2.玩法定制化,核心流程收敛、整个生命周期的触达&lt;br&gt;3.dau+cross(业务线完单)+福利金全平台核销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="8g2bjuCSJIJVHoXqL-s8-1">
+          <mxGeometry x="25" y="640" width="255" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
