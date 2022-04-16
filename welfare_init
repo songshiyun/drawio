@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T12:29:06.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="HwmLCEN8juS3n_zpjCFy" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T12:36:28.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="iXLbEZU5YEAE4GXBH2wu" version="17.4.2" type="github" pages="2">
   <diagram id="5RHfVuD693Xdz6P3vpPz" name="Page-1">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,6 +202,20 @@
         </mxCell>
         <mxCell id="RjKDWbxFZYlI6s7ce16G-2" value="&lt;font color=&quot;#ffffff&quot;&gt;兑换&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontColor=#009999;strokeColor=#009999;strokeWidth=2;fillColor=#009999;" parent="1" vertex="1">
           <mxGeometry x="461" y="289" width="79" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eaXEDSNTWDxGvXh4mcPx" name="Page-2">
+    <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8mTG97TJIV3EI9mgNl8m-1" value="DAU+Cross&lt;br&gt;拆解的图：怎么样达成这个目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8mTG97TJIV3EI9mgNl8m-2" value="怎么样达到这个目标：&lt;br&gt;1.玩法更加丰富&lt;br&gt;2.奖励的区分度(邀请任务区分不同的奖励)&lt;br&gt;3.奖励的实效性&lt;br&gt;4.触达信息的...&lt;br&gt;5.福利金全平台兑换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="56" y="555" width="294" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
