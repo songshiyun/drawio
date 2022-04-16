@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T01:52:05.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="S6QSv7kCzFicsNOC4J5_" version="17.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-16T01:52:26.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="aaUvlKihcsed9RkqAp72" version="17.4.2" type="github" pages="11">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -939,6 +939,14 @@
         <mxCell id="zJ-2eyZWZURm2JWVORCX-42" value="批次III" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="50" y="312.5" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d7lREo38m_k1SaLVFEN2" name="leveled_cache">
+    <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
