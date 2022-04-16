@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T03:18:08.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ahpuuyJeYIZ3S2jkby4F" version="17.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-16T03:36:48.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="gHoQEhdMPZY61dAVkJS9" version="17.4.2" type="github" pages="12">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="954" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -972,6 +972,9 @@
         </mxCell>
         <mxCell id="WrM2W0fntefDg-z60cwu-7" value="用户侧匹配在线活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xktd-aRGzhX8waDisDlm-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
