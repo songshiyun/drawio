@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T07:14:17.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wSJaYsghZZ0GI-VNr1jL" version="17.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-17T07:14:44.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="bOIdqIhnJ0omj9PYzT5B" version="17.4.5" type="github" pages="13">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1059,8 +1059,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="at6HeqnYt_MaZXDhswXN-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="at6HeqnYt_MaZXDhswXN-1" target="at6HeqnYt_MaZXDhswXN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="at6HeqnYt_MaZXDhswXN-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="at6HeqnYt_MaZXDhswXN-1" target="at6HeqnYt_MaZXDhswXN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="at6HeqnYt_MaZXDhswXN-1" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="at6HeqnYt_MaZXDhswXN-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="at6HeqnYt_MaZXDhswXN-2" target="at6HeqnYt_MaZXDhswXN-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="at6HeqnYt_MaZXDhswXN-2" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="120" height="40" as="geometry" />
