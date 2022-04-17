@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T16:51:59.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PG8wAKc1g4XFamuKKE1d" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:52:28.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="GgeoN5LJnq3uAKGQvYLE" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1167,6 +1167,9 @@
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-30" value="能源券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="510" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-33" value="执行风控" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
+          <mxGeometry x="305" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-4" value="驱动" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
           <mxGeometry x="880" y="20" width="120" height="460" as="geometry" />
