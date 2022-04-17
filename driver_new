@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T03:17:37.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6lVk5xpkuZoYb3IVBes_" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-17T03:17:59.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_cT0ZYxxQlHuI9o7kWGa" version="17.4.5" type="github" pages="2">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2385" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -480,6 +480,9 @@
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-115" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="450.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9C9d2gnG7YkFuG1FPWnz-116" value="下游" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81" y="451" width="31" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
