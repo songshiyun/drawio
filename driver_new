@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T03:16:49.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ys_-eP7lYLEE68Qrr2xG" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-17T03:17:37.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6lVk5xpkuZoYb3IVBes_" version="17.4.5" type="github" pages="2">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2385" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -374,19 +374,19 @@
           <mxGeometry x="80" y="442" width="840" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-56" value="券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="94" y="449.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="121" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-57" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="203" y="449.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="222" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-58" value="支付中台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="517" y="450.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="523" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-59" value="DMC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="451" width="90" height="30" as="geometry" />
+          <mxGeometry x="622" y="451" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-60" value="金融系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="722" y="450.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="723" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-61" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="824" y="451" width="90" height="30" as="geometry" />
@@ -476,10 +476,10 @@
           <mxGeometry x="183" y="311.31" width="20" height="19" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-114" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="450.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="423" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-115" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306" y="449.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="323" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
