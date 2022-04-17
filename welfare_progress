@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T16:50:41.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="NaF3hkBKgOigiQOux3gK" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:51:08.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="hHqmQLNXxek8fWSOQ7Yo" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1136,25 +1136,19 @@
           <mxGeometry x="260" y="20" width="620" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-18" value="奖励发放入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="19" y="50" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y71dR9fIt6NK_wfwL0mN-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-3" source="Y71dR9fIt6NK_wfwL0mN-19" target="Y71dR9fIt6NK_wfwL0mN-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="14" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-19" value="参数&amp;amp;幂等校验" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="119" y="30" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Y71dR9fIt6NK_wfwL0mN-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-3" source="Y71dR9fIt6NK_wfwL0mN-18" target="Y71dR9fIt6NK_wfwL0mN-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="114" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-21" value="生成奖励记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="210" y="50" width="80" height="40" as="geometry" />
+          <mxGeometry x="205" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-23" value="是否需要风控" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="310" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="305" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-24" value="构造奖励参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="402" y="50" width="80" height="40" as="geometry" />
+          <mxGeometry x="397" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-25" value="微信零钱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="510" y="30" width="80" height="40" as="geometry" />
