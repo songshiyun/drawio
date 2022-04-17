@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:00:57.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="J1JdeTGpjQk6QKD3eA4S" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:01:14.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="RoHp716y_C6vCWd8uQwu" version="17.4.5" type="github" pages="4">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2125" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -505,7 +505,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S6ZRpZQ8mLtYNgiJ93q4-1" value="driver/package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S6ZRpZQ8mLtYNgiJ93q4-1" value="driver/package&lt;br&gt;5W限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
