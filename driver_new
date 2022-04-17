@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:18:17.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PvoZXKXKjDpUPtfntpmc" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-17T06:18:22.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ys7u90BagCdE7vcVb9G8" version="17.4.5" type="github" pages="3">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2125" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-38" value="金融券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="225" y="330.31" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9C9d2gnG7YkFuG1FPWnz-39" value="权益" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;gradientDirection=east;" parent="1" vertex="1">
+        <mxCell id="9C9d2gnG7YkFuG1FPWnz-39" value="会员权益" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="315" y="329.31" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-40" value="代币" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;gradientDirection=east;arcSize=11;" parent="1" vertex="1">
