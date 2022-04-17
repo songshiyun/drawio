@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T16:59:42.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="R43ln8b1j0xIDdNaLxjX" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-17T17:01:04.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="AnL9bEX5BgVfdwHyNm2a" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1162,6 +1162,9 @@
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-23" value="是否需要风控" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="305" y="130" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-3" source="Y71dR9fIt6NK_wfwL0mN-24" target="Y71dR9fIt6NK_wfwL0mN-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-24" value="构造奖励参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="409" y="150" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1190,31 +1193,31 @@
           <mxGeometry x="305" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-34" value="更新奖励状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="305" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="305" y="365" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-35" value="是否终态" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="205" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="194" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-36" value="驱动执&lt;br&gt;行成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="510" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y71dR9fIt6NK_wfwL0mN-37" value="更新奖励状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
-          <mxGeometry x="409" y="350" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-39" value="奖励发放是否成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="510" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
+          <mxGeometry x="500" y="24" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-4" value="驱动" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
           <mxGeometry x="880" y="20" width="120" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-31" value="驱动同步接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-4">
-          <mxGeometry x="20" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="154" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-5" value="下游系统" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
           <mxGeometry x="1000" y="20" width="120" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-32" value="驱动下游系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-5">
-          <mxGeometry x="20" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="154" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-38" value="下游系统回调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-5">
           <mxGeometry x="20" y="450" width="80" height="40" as="geometry" />
@@ -1229,6 +1232,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-1" source="Y71dR9fIt6NK_wfwL0mN-17" target="Y71dR9fIt6NK_wfwL0mN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-1" source="Y71dR9fIt6NK_wfwL0mN-50" target="Y71dR9fIt6NK_wfwL0mN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-1" source="Y71dR9fIt6NK_wfwL0mN-31" target="Y71dR9fIt6NK_wfwL0mN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="Y71dR9fIt6NK_wfwL0mN-1" source="Y71dR9fIt6NK_wfwL0mN-31" target="Y71dR9fIt6NK_wfwL0mN-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
