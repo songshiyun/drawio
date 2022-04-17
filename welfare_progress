@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:44:12.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="K-fnzFtu8D5g5WEU-WF6" version="17.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:45:11.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="buATaIS3gG_xrKfbodXa" version="17.4.5" type="github" pages="13">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -988,16 +988,30 @@
         <mxCell id="Xktd-aRGzhX8waDisDlm-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="620" y="180" width="50" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="RoZHHJFlJAyv2hVzhPQc-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="RoZHHJFlJAyv2hVzhPQc-2" target="Xktd-aRGzhX8waDisDlm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RoZHHJFlJAyv2hVzhPQc-2" value="锁信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="155.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RoZHHJFlJAyv2hVzhPQc-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="RoZHHJFlJAyv2hVzhPQc-4" target="Xktd-aRGzhX8waDisDlm-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RoZHHJFlJAyv2hVzhPQc-4" value="库存信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="115.5" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RoZHHJFlJAyv2hVzhPQc-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="RoZHHJFlJAyv2hVzhPQc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RoZHHJFlJAyv2hVzhPQc-6" value="熔断信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RoZHHJFlJAyv2hVzhPQc-8" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="RoZHHJFlJAyv2hVzhPQc-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="RoZHHJFlJAyv2hVzhPQc-8" target="Xktd-aRGzhX8waDisDlm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoZHHJFlJAyv2hVzhPQc-8" value="弹窗信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="245" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
