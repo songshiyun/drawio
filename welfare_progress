@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T16:49:20.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="QhN3gWr8GH10_QcenwvG" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:49:32.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="VhYG_IjC9akT18G4w8V1" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1153,7 +1153,7 @@
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-23" value="是否需要风控" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="310" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y71dR9fIt6NK_wfwL0mN-24" value="奖励发放入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-24" value="构造奖励参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-3">
           <mxGeometry x="402" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y71dR9fIt6NK_wfwL0mN-4" value="驱动" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
