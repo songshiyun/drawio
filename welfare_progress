@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:45:11.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="buATaIS3gG_xrKfbodXa" version="17.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-17T16:41:08.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="usu7OaPqooHdTHs3Gubr" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1018,7 +1018,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PIbccWSwW0NSaBoNRb0k" name="local_cache">
-    <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1081,30 +1081,50 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8PjKwkclrrGxU-XdSSby" name="Page-13">
-    <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="at6HeqnYt_MaZXDhswXN-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="at6HeqnYt_MaZXDhswXN-1" target="at6HeqnYt_MaZXDhswXN-2">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="at6HeqnYt_MaZXDhswXN-1" target="at6HeqnYt_MaZXDhswXN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="at6HeqnYt_MaZXDhswXN-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="at6HeqnYt_MaZXDhswXN-1" target="at6HeqnYt_MaZXDhswXN-4">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="at6HeqnYt_MaZXDhswXN-1" target="at6HeqnYt_MaZXDhswXN-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="at6HeqnYt_MaZXDhswXN-1" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-1" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at6HeqnYt_MaZXDhswXN-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="at6HeqnYt_MaZXDhswXN-2" target="at6HeqnYt_MaZXDhswXN-3">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" parent="1" source="at6HeqnYt_MaZXDhswXN-2" target="at6HeqnYt_MaZXDhswXN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="at6HeqnYt_MaZXDhswXN-2" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-2" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at6HeqnYt_MaZXDhswXN-3" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-3" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at6HeqnYt_MaZXDhswXN-4" value="充值中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="at6HeqnYt_MaZXDhswXN-4" value="充值中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;opacity=40;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="354" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lWVd9qQV1ogdc3oBoSnr" name="reward_pool_swim">
+    <mxGraphModel dx="793" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-1" value="奖励发放流程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-2" value="Lane 1" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-3" value="Lane 2" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Y71dR9fIt6NK_wfwL0mN-4" value="Lane 3" style="swimlane;startSize=20;fillColor=none;opacity=40;" vertex="1" parent="Y71dR9fIt6NK_wfwL0mN-1">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
