@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:16:57.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="iqH-XUjLAHyEIQgsY9Wh" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T09:17:31.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1c40kdeSmCW55oCALuLI" version="17.4.5" type="github" pages="4">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2125" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,6 +542,9 @@
         </mxCell>
         <mxCell id="RhRzp7MdqGN-QpH6pb6A-3" value="redis计数key自增1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhRzp7MdqGN-QpH6pb6A-5" value="是否超过限流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
