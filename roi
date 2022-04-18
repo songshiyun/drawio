@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T15:06:10.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PR0A0P3pWZ48Af3oZhz3" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T15:06:29.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="qcDONaDBjxUX1DF1S0wk" version="17.4.5" type="github" pages="4">
   <diagram id="DHD7rf09Lv-LO5vMY0BF" name="Page-1">
     <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="89rTxZp1JrNr6TSM6eY6-1" value="消费者产品偏好" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="89rTxZp1JrNr6TSM6eY6-2" value="门店每日消费计划" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
