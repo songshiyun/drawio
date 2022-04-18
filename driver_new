@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T03:16:40.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="fTRr8GqXl5c7MjBXwhQx" version="17.4.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-18T03:17:35.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="A7jrd8o9lNP178yiteql" version="17.4.5" type="github" pages="7">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="2125" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,6 +692,18 @@
         </mxCell>
         <mxCell id="KGUzoOc0Xit6j4hroLKE-7" value="业务请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGUzoOc0Xit6j4hroLKE-8" value="绑券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGUzoOc0Xit6j4hroLKE-9" value="现金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGUzoOc0Xit6j4hroLKE-10" value="触达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGUzoOc0Xit6j4hroLKE-11" value="消息号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
