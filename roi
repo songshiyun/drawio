@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T15:08:20.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="4jN8-b2wvi0eEfza0z-k" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-18T15:08:48.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1dFFOLEYlQswoTNToVxA" version="17.4.5" type="github" pages="4">
   <diagram id="DHD7rf09Lv-LO5vMY0BF" name="Page-1">
     <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,6 +265,9 @@
         </mxCell>
         <mxCell id="89rTxZp1JrNr6TSM6eY6-7" value="APP结账" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="89rTxZp1JrNr6TSM6eY6-8" value="用餐空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="214" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
