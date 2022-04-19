@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T11:51:50.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xMbR6eVILELONUPyDmCM" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-19T11:53:00.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="f7Dtc_nh7Mz4CtFw3IE0" version="17.4.5" type="github" pages="5">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -586,13 +586,19 @@
           <mxGeometry x="50" y="130" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isXJpdOt3LtVdlYCOBJA-3" value="Logger&lt;br&gt;增强" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="60" height="60" as="geometry" />
+          <mxGeometry x="130" y="130" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isXJpdOt3LtVdlYCOBJA-4" value="HttpClient&lt;br&gt;包装" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="190" y="130" width="60" height="60" as="geometry" />
+          <mxGeometry x="210" y="130" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isXJpdOt3LtVdlYCOBJA-5" value="Rpc调用封装" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="60" height="60" as="geometry" />
+          <mxGeometry x="290" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isXJpdOt3LtVdlYCOBJA-6" value="Rpc调用封装" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isXJpdOt3LtVdlYCOBJA-7" value="Rpc调用封装" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
