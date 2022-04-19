@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T15:13:13.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="K2kGfP82xy4NG9J8yUuH" version="17.4.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-04-19T15:13:56.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Y9yUVoXOEljxjD7iK2QY" version="17.4.5" type="github" pages="15">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1329,7 +1329,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="107" y="279" width="206" height="211" as="geometry" />
+          <mxGeometry x="107" y="279" width="223" height="211" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTf4P0ftBVWcfRc4iQC-1" target="qeTf4P0ftBVWcfRc4iQC-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1349,8 +1349,8 @@
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-5" value="绑券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="120" y="369" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qeTf4P0ftBVWcfRc4iQC-6" value="生产&lt;br&gt;事物&lt;br&gt;业务&lt;br&gt;消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="260" y="289" width="40" height="120" as="geometry" />
+        <mxCell id="qeTf4P0ftBVWcfRc4iQC-6" value="生产&lt;br&gt;事物&lt;br&gt;业务&lt;br&gt;消息&lt;br&gt;（带step）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="250" y="289" width="70" height="191" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-10" value="更新本地记录状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
