@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T13:11:30.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="IKZTOjC0bu_iGP8ExnHR" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-19T13:11:44.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="JNtd9V3So_7nTBFgQ0H4" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-73" value="券过期提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="528" y="431" width="102" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="aDDxaktzLfXatcJG3qTw-4" value="shipfram" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="aDDxaktzLfXatcJG3qTw-4" value="shipframe" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="79" y="495" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-77" value="完单任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
