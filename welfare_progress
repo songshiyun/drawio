@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T15:49:27.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="mS1EUIKMkKzDt9Xj9kbW" version="17.4.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-04-19T15:49:55.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="24KGf6pEZO-bYynt9n9p" version="17.4.5" type="github" pages="17">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1469,6 +1469,14 @@
         <mxCell id="akQ3q3TIxVG5trIJ1MsB-29" value="本地状态推导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="484" y="180" width="120" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="haA4E1S_qNsGyV17-5t5" name="tx_monitor">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
