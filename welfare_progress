@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T13:10:25.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="CuCZVH-_zX7nmevsJOba" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-19T13:10:36.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="odmEpsCRZAC0-gVwl96M" version="17.4.5" type="github" pages="14">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-60" value="天降" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="260" y="433" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="oqMKlLS1HC7-YwmFVjuI-61" value="奖励发放" style="text;html=1;strokeColor=#36393d;fillColor=#B9E0A5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;opacity=40;" parent="1" vertex="1">
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-61" value="奖励模块" style="text;html=1;strokeColor=#36393d;fillColor=#B9E0A5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="417" y="256.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-62" value="代币" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" parent="1" vertex="1">
@@ -190,7 +190,7 @@
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-68" value="任务完成提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="529" y="323" width="102" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="oqMKlLS1HC7-YwmFVjuI-69" value="触达提醒" style="text;html=1;strokeColor=#36393d;fillColor=#B9E0A5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;opacity=40;" parent="1" vertex="1">
+        <mxCell id="oqMKlLS1HC7-YwmFVjuI-69" value="触达" style="text;html=1;strokeColor=#36393d;fillColor=#B9E0A5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="550" y="258.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqMKlLS1HC7-YwmFVjuI-70" value="奖励到账提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;opacity=40;" parent="1" vertex="1">
