@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T15:49:14.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wLqUDoleUnFfH2BC1Zs-" version="17.4.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-04-19T15:49:27.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="mS1EUIKMkKzDt9Xj9kbW" version="17.4.5" type="github" pages="16">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1466,7 +1466,7 @@
         <mxCell id="akQ3q3TIxVG5trIJ1MsB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akQ3q3TIxVG5trIJ1MsB-29" target="akQ3q3TIxVG5trIJ1MsB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="akQ3q3TIxVG5trIJ1MsB-29" value="本地状态推导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="akQ3q3TIxVG5trIJ1MsB-29" value="本地状态推导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="484" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
