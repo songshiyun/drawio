@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T12:03:10.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="N0FqlwE7uDfRuVlQn-Pq" version="17.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-19T12:05:11.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dpYs2jT-_oHDP42-TDzQ" version="17.4.5" type="github" pages="6">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -634,6 +634,24 @@
         </mxCell>
         <mxCell id="iT8TE37l1xJMRAzAiovD-2" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iT8TE37l1xJMRAzAiovD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iT8TE37l1xJMRAzAiovD-4" value="网约车券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iT8TE37l1xJMRAzAiovD-5" value="能源券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iT8TE37l1xJMRAzAiovD-6" value="花小猪券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iT8TE37l1xJMRAzAiovD-7" value="金融券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iT8TE37l1xJMRAzAiovD-8" value="商家券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
