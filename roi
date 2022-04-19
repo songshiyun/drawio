@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T03:03:46.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Rh8kh2vLzyDmXRAh50yl" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-19T03:05:13.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="GzmRIke_bijFbIX6SnlR" version="17.4.5" type="github" pages="4">
   <diagram id="DHD7rf09Lv-LO5vMY0BF" name="Page-1">
     <mxGraphModel dx="1298" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
         </mxCell>
         <mxCell id="k73BqNWy44O6tT_dil9A-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;strokeWidth=1.5;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="k73BqNWy44O6tT_dil9A-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="237" as="targetPoint" />
+            <mxPoint x="621" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k73BqNWy44O6tT_dil9A-6" value="供热" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;" parent="1" vertex="1">
@@ -202,6 +202,14 @@
         <mxCell id="k73BqNWy44O6tT_dil9A-12" value="光伏组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="465" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="A8gfss1OT0ZkfLRNZYgw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1.5;" edge="1" parent="1" source="k73BqNWy44O6tT_dil9A-13" target="k73BqNWy44O6tT_dil9A-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="295" />
+              <mxPoint x="610" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k73BqNWy44O6tT_dil9A-13" value="光伏发电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="544" y="280" width="60" height="30" as="geometry" />
         </mxCell>
@@ -223,10 +231,10 @@
         <mxCell id="k73BqNWy44O6tT_dil9A-16" value="风能发电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="544" y="343" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k73BqNWy44O6tT_dil9A-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;strokeWidth=1.5;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" edge="1">
+        <mxCell id="A8gfss1OT0ZkfLRNZYgw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;strokeWidth=1.5;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="297" as="targetPoint" />
-            <mxPoint x="641" y="362" as="sourcePoint" />
+            <mxPoint x="621" y="289" as="targetPoint" />
+            <mxPoint x="641" y="358" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
