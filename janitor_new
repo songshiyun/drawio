@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T11:49:32.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="r209itWJDLakCK481DRi" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-19T11:50:18.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="CqaL0yfD6bfcj7tEWZ19" version="17.4.5" type="github" pages="5">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,6 +570,20 @@
         </mxCell>
         <mxCell id="KwDo1cX548CnOKDfC8e1-18" value="券解析3" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="291" y="340" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mbif8vqoYqy-dPWjpok5" name="shipframe">
+    <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="isXJpdOt3LtVdlYCOBJA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isXJpdOt3LtVdlYCOBJA-2" value="gorm2&lt;br&gt;封装" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
