@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T10:43:56.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="tkRRzkUjpjrR2fHeTgNJ" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-19T10:51:45.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="kabQKAVPXWuVFPVXXMaO" version="17.4.5" type="github" pages="3">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -497,7 +497,7 @@
         <mxCell id="TjMK1HL--xLuz0i7QyEs-47" value="&lt;font color=&quot;#ff0000&quot;&gt;流量&lt;/font&gt;" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="150" y="182" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TjMK1HL--xLuz0i7QyEs-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="TjMK1HL--xLuz0i7QyEs-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="690" y="263.5" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="TjMK1HL--xLuz0i7QyEs-49" value="redis缓存" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
