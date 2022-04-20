@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T04:15:38.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="EtuTmxTVYahy87sH3MuN" version="17.4.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-20T04:18:25.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="vPuGbPzFwHVf6SH_NYeY" version="17.4.5" type="github" pages="18">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1602,18 +1602,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V-6G8CaftBRmNPE_Fm7W" name="cycle">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gfqTf92O_KEkO-wS_UoT-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="530" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="gfqTf92O_KEkO-wS_UoT-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="gfqTf92O_KEkO-wS_UoT-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;opacity=50;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="177.5" width="450" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="gfqTf92O_KEkO-wS_UoT-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="gfqTf92O_KEkO-wS_UoT-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqTf92O_KEkO-wS_UoT-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;opacity=50;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="175" y="212.5" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqTf92O_KEkO-wS_UoT-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=50;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="192" y="290" width="170" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqTf92O_KEkO-wS_UoT-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=50;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="170" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
