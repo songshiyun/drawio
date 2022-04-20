@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T07:30:45.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="oYCN0rJgAS1Y-EUetHgx" version="17.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-20T07:31:23.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ADm5beZILhMidwNQYUfn" version="17.4.5" type="github" pages="9">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -812,22 +812,22 @@
         <mxCell id="nkiFADJRMtxX4lhzuGQz-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nkiFADJRMtxX4lhzuGQz-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="nkiFADJRMtxX4lhzuGQz-14" value="策略1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="129" y="206" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkiFADJRMtxX4lhzuGQz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="nkiFADJRMtxX4lhzuGQz-15" value="策略2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="205" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkiFADJRMtxX4lhzuGQz-16" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="nkiFADJRMtxX4lhzuGQz-16" value="策略3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="205" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkiFADJRMtxX4lhzuGQz-17" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="nkiFADJRMtxX4lhzuGQz-17" value="策略2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="419" y="207" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkiFADJRMtxX4lhzuGQz-18" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="nkiFADJRMtxX4lhzuGQz-18" value="策略3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="206" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkiFADJRMtxX4lhzuGQz-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="nkiFADJRMtxX4lhzuGQz-19" value="策略4" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="206" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkiFADJRMtxX4lhzuGQz-20" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
