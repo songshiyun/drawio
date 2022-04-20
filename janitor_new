@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T07:14:15.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="jCZR_G4fcXynqqYRjyol" version="17.4.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-20T07:14:23.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="USNFFgaYX-F1emzYgteS" version="17.4.5" type="github" pages="8">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,7 +774,7 @@
         <mxCell id="FYlNlPMGHQw9qtZ00uks-13" value="merge" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FYlNlPMGHQw9qtZ00uks-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#FFB570;" vertex="1" parent="1">
+        <mxCell id="FYlNlPMGHQw9qtZ00uks-18" value="结果输出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FYlNlPMGHQw9qtZ00uks-20" value="责任链模式判定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
