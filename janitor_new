@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T16:38:55.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="qCpGYJLslcyxayivvAyW" version="17.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-20T16:39:34.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="WfHoPfGbNcL9ZvkhFT3E" version="17.4.5" type="github" pages="9">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -600,11 +600,20 @@
         <mxCell id="isXJpdOt3LtVdlYCOBJA-7" value="......" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;strokeWidth=2;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="530" y="220" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aOVsQjJjajBaocuUS1MY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.125;entryY=-0.225;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;fontSize=12;startSize=3;strokeWidth=2;opacity=70;" edge="1" parent="1" source="isXJpdOt3LtVdlYCOBJA-8" target="aOVsQjJjajBaocuUS1MY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="isXJpdOt3LtVdlYCOBJA-8" value="滴滴联盟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;opacity=70;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aOVsQjJjajBaocuUS1MY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontSize=12;startSize=3;strokeWidth=2;opacity=70;" edge="1" parent="1" source="isXJpdOt3LtVdlYCOBJA-9" target="aOVsQjJjajBaocuUS1MY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="isXJpdOt3LtVdlYCOBJA-9" value="裂变中台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;opacity=70;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aOVsQjJjajBaocuUS1MY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.875;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;fontSize=12;startSize=3;strokeWidth=2;opacity=70;" edge="1" parent="1" source="isXJpdOt3LtVdlYCOBJA-10" target="aOVsQjJjajBaocuUS1MY-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isXJpdOt3LtVdlYCOBJA-10" value="营销中台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;opacity=70;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="90" width="120" height="40" as="geometry" />
@@ -612,7 +621,7 @@
         <mxCell id="aOVsQjJjajBaocuUS1MY-1" value="shipframe业务框架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontSize=12;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="304" y="190" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aOVsQjJjajBaocuUS1MY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontSize=12;strokeWidth=1;opacity=70;startSize=2;" edge="1" parent="1" source="aOVsQjJjajBaocuUS1MY-2">
+        <mxCell id="aOVsQjJjajBaocuUS1MY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontSize=12;strokeWidth=2;opacity=70;startSize=2;" edge="1" parent="1" source="aOVsQjJjajBaocuUS1MY-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="190" as="targetPoint" />
           </mxGeometry>
