@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T16:40:54.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="OdD2atmwvPeSBKBSEDLt" version="17.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-20T16:44:15.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="3gxEBXeY1OEPQ77zJw7t" version="17.4.5" type="github" pages="10">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -856,6 +856,14 @@
         <mxCell id="nkiFADJRMtxX4lhzuGQz-23" value="奖励3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#b1ddf0;dashed=1;strokeColor=#10739e;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="500" y="286" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sAhuTAjtZXXwopBjGuXZ" name="gorm">
+    <mxGraphModel dx="1298" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
