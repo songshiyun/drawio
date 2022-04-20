@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T05:12:24.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="7i8Oyg72TPWJyprEJv2M" version="17.4.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-20T05:13:03.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="7go1mYP6kywAi7ybOEqu" version="17.4.5" type="github" pages="18">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1129" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1722,10 +1722,10 @@
         <mxCell id="G-WmLHP5T79ohMbGKLYF-18" value="素材&lt;br&gt;管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontStyle=0;fontSize=10;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="94" y="310" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="G-WmLHP5T79ohMbGKLYF-19" value="整合营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="G-WmLHP5T79ohMbGKLYF-19" value="资源位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="574" y="220" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="G-WmLHP5T79ohMbGKLYF-20" value="整合营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="G-WmLHP5T79ohMbGKLYF-20" value="Dchn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="574" y="262.5" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="G-WmLHP5T79ohMbGKLYF-21" value="整合营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;fontSize=10;" vertex="1" parent="1">
