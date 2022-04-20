@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T15:52:42.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="941MSM3ctYZmT55UmLQT" version="17.4.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-20T15:53:19.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wOM-BasnIdIP4rJ2H11I" version="17.4.5" type="github" pages="18">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1328,6 +1328,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nU7p0k6gORDcUl-3keux-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=#ffffff;gradientDirection=east;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="50" width="1080" height="540" as="geometry" />
+        </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-165" y="319" width="320" height="221" as="geometry" />
         </mxCell>
@@ -1355,7 +1358,7 @@
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-5" value="绑券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-61" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qeTf4P0ftBVWcfRc4iQC-6" value="生产&lt;br&gt;事务&lt;br&gt;业务&lt;br&gt;消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
+        <mxCell id="qeTf4P0ftBVWcfRc4iQC-6" value="生产&lt;br&gt;业务&lt;br&gt;消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="329" width="40" height="191" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-18" value="更新本地记录状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
@@ -1374,9 +1377,6 @@
         </mxCell>
         <mxCell id="nU7p0k6gORDcUl-3keux-2" value="福利金&lt;br&gt;冻结" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=10;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;gradientDirection=east;opacity=50;" vertex="1" parent="1">
           <mxGeometry y="387.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="nU7p0k6gORDcUl-3keux-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=#ffffff;gradientDirection=east;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="50" width="1080" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Rzb2cK65-di9Bient3Ae-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rzb2cK65-di9Bient3Ae-2" target="Rzb2cK65-di9Bient3Ae-4">
           <mxGeometry relative="1" as="geometry" />
