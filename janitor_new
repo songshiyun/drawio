@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T17:22:47.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="-bgy1oPfmrdCLsD5CMxe" version="17.4.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-20T17:24:04.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="FjqQWrkuBPzUL8cxPaw9" version="17.4.5" type="github" pages="10">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1956" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,23 +400,6 @@
         </mxCell>
         <mxCell id="TjMK1HL--xLuz0i7QyEs-23" value="券信息构造" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="363" y="530" width="117" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TjMK1HL--xLuz0i7QyEs-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TjMK1HL--xLuz0i7QyEs-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="550" />
-              <mxPoint x="690" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TjMK1HL--xLuz0i7QyEs-25" value="decr" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TjMK1HL--xLuz0i7QyEs-24" vertex="1" connectable="0">
-          <mxGeometry x="-0.0525" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TjMK1HL--xLuz0i7QyEs-26" value="库存回滚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TjMK1HL--xLuz0i7QyEs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
