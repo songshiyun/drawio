@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T08:33:03.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Y60dDTAIF86hMWzc8L0t" version="17.4.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-20T15:36:54.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="W5oK-oimcoc2kanD84Rh" version="17.4.5" type="github" pages="18">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1081,7 +1081,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8PjKwkclrrGxU-XdSSby" name="Page-13">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,12 +1324,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EKGePRiOJEU5RuHjRHw_" name="tcc">
-    <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-158" y="279" width="300" height="141" as="geometry" />
+          <mxGeometry x="-158" y="279" width="300" height="211" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeTf4P0ftBVWcfRc4iQC-1" target="qeTf4P0ftBVWcfRc4iQC-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1343,20 +1343,17 @@
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-3" value="produce mq tx monitor msg&lt;br&gt;tx_id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;opacity=50;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-98.75" y="200" width="181.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qeTf4P0ftBVWcfRc4iQC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qeTf4P0ftBVWcfRc4iQC-4" target="qeTf4P0ftBVWcfRc4iQC-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qeTf4P0ftBVWcfRc4iQC-4" value="Try(冻结福利金&amp;amp;扣库存)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
+        <mxCell id="qeTf4P0ftBVWcfRc4iQC-4" value="Try" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-68" y="289" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-5" value="绑券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-68" y="369" width="120" height="40" as="geometry" />
+          <mxGeometry x="-68" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-6" value="生产&lt;br&gt;事务&lt;br&gt;业务&lt;br&gt;消息&lt;br&gt;（带step）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="62" y="289" width="70" height="121" as="geometry" />
         </mxCell>
         <mxCell id="qeTf4P0ftBVWcfRc4iQC-18" value="更新本地记录状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-148" y="289" width="70" height="121" as="geometry" />
+          <mxGeometry x="-148" y="289" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
