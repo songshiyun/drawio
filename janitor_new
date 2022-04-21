@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:45:55.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="CeldsdLrYAFZ_zmQ4Vrr" version="17.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:47:07.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="tNzgbiinOjtc6_6iyWPe" version="17.4.5" type="github" pages="11">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -973,16 +973,16 @@
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-29" value="活动曝光数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="636" y="360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGIXcHDTzdKFekmgTwt-30" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-30" value="行为分析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="545" y="463" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGIXcHDTzdKFekmgTwt-31" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-31" value="黑名单限制" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="634" y="463" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGIXcHDTzdKFekmgTwt-32" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-32" value="频次限制" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="545" y="501" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGIXcHDTzdKFekmgTwt-33" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-33" value="异常聚合" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="634" y="501" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-34" value="用户领券数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
@@ -1038,6 +1038,9 @@
         </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-51" value="人&lt;br&gt;群&lt;br&gt;区&lt;br&gt;分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="26" y="155" width="34" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-53" value="统一风控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="586.5" y="439" width="87" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
