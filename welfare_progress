@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:00:19.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="UILRZ3aAa2xy99mOBpUd" version="17.4.5" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:01:46.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="fceePk1T3SJMrSAUoRGF" version="17.4.5" type="github" pages="21">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2299,6 +2299,27 @@
         </mxCell>
         <mxCell id="1HD0JmUtwJcEIedKLc6q-4" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-5" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-6" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-7" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-8" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-9" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-11" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1HD0JmUtwJcEIedKLc6q-12" value="V2.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
