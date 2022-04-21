@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:38:34.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="65BCPzjt8NHsTK-Um89k" version="17.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:39:17.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="U7Je25msXSuqVDywBvQZ" version="17.4.5" type="github" pages="11">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -970,9 +970,6 @@
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-27" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="547" y="354" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ZGIXcHDTzdKFekmgTwt-28" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="445" y="364" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-29" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="636" y="354" width="80" height="30" as="geometry" />
         </mxCell>
@@ -993,6 +990,36 @@
         </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-35" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="636" y="394" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-36" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="346" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-37" value="每日领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="386" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-38" value="助力领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="426" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-39" value="抽奖" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="465" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-40" value="券兑换" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="504" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-41" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="346" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-42" value="每日领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="386" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-43" value="助力领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="426" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-44" value="抽奖" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="465" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-45" value="券兑换" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="504" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
