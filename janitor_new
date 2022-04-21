@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:36:39.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="VItyV2dw54h_qYuRBg2M" version="17.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:37:42.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="FGDo8Iuw-oHbvCugAOsv" version="17.4.5" type="github" pages="11">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -938,7 +938,7 @@
           <mxGeometry x="425" y="502" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-17" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="30" y="650" width="690" height="60" as="geometry" />
+          <mxGeometry x="30" y="555" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-18" value="大数据标签" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="50" y="168" width="80" height="30" as="geometry" />
@@ -966,6 +966,15 @@
         </mxCell>
         <mxCell id="8ZGIXcHDTzdKFekmgTwt-26" value="小程序分享卡片" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="50" y="499" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-27" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="547" y="369" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-28" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="445" y="364" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZGIXcHDTzdKFekmgTwt-29" value="秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="636" y="369" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
