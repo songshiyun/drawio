@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:38:29.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="u9npFL9GjxhxrHYWD70G" version="17.4.5" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:38:40.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="UQ_SnalTCswvbFucRxgV" version="17.4.5" type="github" pages="20">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2265,13 +2265,13 @@
         <mxCell id="i4rAmItgdW9PY-l-5jO1-10" value="通用绑券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="245" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i4rAmItgdW9PY-l-5jO1-11" value="秒杀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4rAmItgdW9PY-l-5jO1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-12" value="秒杀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i4rAmItgdW9PY-l-5jO1-13" value="秒杀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i4rAmItgdW9PY-l-5jO1-13" value="触达管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="402" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-47" target="i4rAmItgdW9PY-l-5jO1-47">
