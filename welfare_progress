@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:27:23.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="DNRCLvuF03U5-Oq-Ok4P" version="17.4.5" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:28:06.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="T8pF0fX3z0gaun78gVXy" version="17.4.5" type="github" pages="19">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1017,6 +1017,66 @@
         </mxCell>
         <mxCell id="iJbBdb3Bll1iYqqMC2HF-4" value="通用信息缓存" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-1" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="idW7yONnhaXbbWQIzu4g-2" target="idW7yONnhaXbbWQIzu4g-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="187" />
+              <mxPoint x="755" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-2" value="本地&lt;br&gt;缓存" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;dashed=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="705" y="217" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="idW7yONnhaXbbWQIzu4g-4" target="idW7yONnhaXbbWQIzu4g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-4" value="用户访问" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="102" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="idW7yONnhaXbbWQIzu4g-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="696" y="132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-6" value="匹配在线活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="581" y="112" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="idW7yONnhaXbbWQIzu4g-9" target="idW7yONnhaXbbWQIzu4g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="idW7yONnhaXbbWQIzu4g-9" target="idW7yONnhaXbbWQIzu4g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-9" value="构建券信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="695" y="112" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="idW7yONnhaXbbWQIzu4g-12" target="idW7yONnhaXbbWQIzu4g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-11" value="写入&lt;br&gt;randomttl" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="idW7yONnhaXbbWQIzu4g-10">
+          <mxGeometry x="0.3744" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="865" y="87" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-13" value="网约车券系统" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="97" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-14" value="能源券系统" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="134" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-15" value="商家券系统" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="167" width="90" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-16" value="本地缓存过期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="789" y="117" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idW7yONnhaXbbWQIzu4g-17" value="券信息本地缓存" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
