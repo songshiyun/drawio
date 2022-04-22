@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T05:36:37.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="D0Ar4o6G5mrJ4quR1r8T" version="17.4.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-22T05:37:11.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NB5Gi88GoXo_g934oQFR" version="17.4.6" type="github" pages="12">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="2253" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1212,7 +1212,7 @@
         <mxCell id="ZRicgzTLQcFrUS6NeMf_-26" value="小程序分享卡片" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="64" y="321.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZRicgzTLQcFrUS6NeMf_-27" value="前端行为数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="ZRicgzTLQcFrUS6NeMf_-27" value="前端埋点数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="628" y="518.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRicgzTLQcFrUS6NeMf_-28" value="活动数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
@@ -1233,7 +1233,7 @@
         <mxCell id="ZRicgzTLQcFrUS6NeMf_-33" value="用户奖励数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="628" y="554.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZRicgzTLQcFrUS6NeMf_-34" value="数据报表产出" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="ZRicgzTLQcFrUS6NeMf_-34" value="行为数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="716" y="554.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRicgzTLQcFrUS6NeMf_-35" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
