@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T04:15:02.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YzfI2fGptkoux7TVbPci" version="17.4.6" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-04-22T04:15:43.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gjhkJKGUWFcc_rufax3F" version="17.4.6" type="github" pages="22">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2462,6 +2462,24 @@
         </mxCell>
         <mxCell id="Qb-bBTTgBk36_McVu4zw-34" value="快车券1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="337" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb-bBTTgBk36_McVu4zw-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="387" width="110" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb-bBTTgBk36_McVu4zw-39" value="快车券1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="393" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb-bBTTgBk36_McVu4zw-40" value="能源券1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="431" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb-bBTTgBk36_McVu4zw-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="484" width="110" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb-bBTTgBk36_McVu4zw-43" value="快车券1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qb-bBTTgBk36_McVu4zw-44" value="能源券1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="528" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
