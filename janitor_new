@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T05:50:32.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jbaZ2DAtYloDySECDOjM" version="17.4.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-22T05:51:05.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="R0iI8xh5B4Eqn3F1a6CF" version="17.4.6" type="github" pages="12">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="2253" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1146,7 +1146,7 @@
         <mxCell id="0QvL6nFiHHtENPgIjghK-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="145.5" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZRicgzTLQcFrUS6NeMf_-1" value="应用层产品接入" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZRicgzTLQcFrUS6NeMf_-1" value="整合营销活动" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="164" y="168" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZRicgzTLQcFrUS6NeMf_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;opacity=50;" vertex="1" parent="1">
@@ -1392,13 +1392,13 @@
         <mxCell id="0QvL6nFiHHtENPgIjghK-8" value="....." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="706" y="449.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0QvL6nFiHHtENPgIjghK-9" value="应用层产品接入" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="0QvL6nFiHHtENPgIjghK-9" value="领券中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="291" y="168" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0QvL6nFiHHtENPgIjghK-10" value="应用层产品接入" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="0QvL6nFiHHtENPgIjghK-10" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="419" y="168" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0QvL6nFiHHtENPgIjghK-11" value="应用层产品接入" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="0QvL6nFiHHtENPgIjghK-11" value="盲盒营销" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="548" y="168" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0QvL6nFiHHtENPgIjghK-12" value="投放管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
@@ -1419,7 +1419,7 @@
         <mxCell id="0QvL6nFiHHtENPgIjghK-18" value="投放H5" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=none;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="64" y="376" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0QvL6nFiHHtENPgIjghK-19" value="应用层产品接入" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="0QvL6nFiHHtENPgIjghK-19" value="......" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeWidth=1;fillColor=#d5e8d4;gradientColor=none;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="675" y="168" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0QvL6nFiHHtENPgIjghK-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
