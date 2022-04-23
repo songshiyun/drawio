@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T14:08:22.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jysbM-npwm-NCmrrzyLV" version="17.4.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-04-23T14:08:46.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fmWH5QjpfRGHr91sY1dc" version="17.4.6" type="github" pages="24">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1296" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2352,22 +2352,22 @@
         <mxCell id="WPBjBpwmogHWKu2R6BJG-13" value="福利金兑换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="960" y="362" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPBjBpwmogHWKu2R6BJG-14" value="刮刮乐模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WPBjBpwmogHWKu2R6BJG-14" value="刮刮乐模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="870" y="362" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPBjBpwmogHWKu2R6BJG-15" value="任务模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WPBjBpwmogHWKu2R6BJG-15" value="任务模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="780" y="362" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPBjBpwmogHWKu2R6BJG-16" value="助力模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WPBjBpwmogHWKu2R6BJG-16" value="助力模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="690" y="362" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WPBjBpwmogHWKu2R6BJG-17" value="UTCTC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1050" y="362" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPBjBpwmogHWKu2R6BJG-18" value="签到模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WPBjBpwmogHWKu2R6BJG-18" value="签到模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="600" y="362" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPBjBpwmogHWKu2R6BJG-19" value="资产模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WPBjBpwmogHWKu2R6BJG-19" value="资产模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="362" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
