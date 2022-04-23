@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T13:57:50.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2NRmBmdm1tFci6qllyNM" version="17.4.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-04-23T13:58:33.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="35tWvRVoC50928sXRHT_" version="17.4.6" type="github" pages="24">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1296" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2313,20 +2313,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1HD0JmUtwJcEIedKLc6q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="1HD0JmUtwJcEIedKLc6q-1" target="1HD0JmUtwJcEIedKLc6q-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1HD0JmUtwJcEIedKLc6q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="1HD0JmUtwJcEIedKLc6q-1" target="1HD0JmUtwJcEIedKLc6q-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1HD0JmUtwJcEIedKLc6q-1" value="福利中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1HD0JmUtwJcEIedKLc6q-3" value="V2.4_A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1HD0JmUtwJcEIedKLc6q-4" value="V2.4_B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1HD0JmUtwJcEIedKLc6q-5" value="福利金兑换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="530" y="640" width="80" height="40" as="geometry" />
