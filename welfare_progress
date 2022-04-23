@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T02:39:32.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CKO9Ec8z6OONySwyAZBZ" version="17.4.6" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-04-23T03:17:27.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7qCoFt2VeiG63uEazadB" version="17.4.6" type="github" pages="23">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2586,39 +2586,57 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FjrkyZWkuUDyd9d1SWFp" name="tcc_v2">
-    <mxGraphModel dx="1398" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qlMA14iQ-_H77syIawnz-1" value="兑换请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="128" width="120" height="40" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="280" height="240" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114" y="359" as="sourcePoint" />
+            <mxPoint x="114" y="399" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="160" height="120" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="160" height="110" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-5" value="冻结福利金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="168" width="120" height="30" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-6" value="核销福利金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="206" width="120" height="30" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-7" value="解冻福利金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="244" width="120" height="30" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-8" value="绑券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="303" width="120" height="30" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="152.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-9" value="券状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="353" width="120" height="30" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="199" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-10" value="本地兑换记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="80" height="40" as="geometry" />
+        <mxCell id="qlMA14iQ-_H77syIawnz-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="277" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qlMA14iQ-_H77syIawnz-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="319.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qlMA14iQ-_H77syIawnz-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="367" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qlMA14iQ-_H77syIawnz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164" y="360" as="sourcePoint" />
+            <mxPoint x="164" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="164" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
