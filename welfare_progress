@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T02:37:59.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3MNKqCbiX4Wc313jZ9ao" version="17.4.6" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-04-23T02:39:32.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CKO9Ec8z6OONySwyAZBZ" version="17.4.6" type="github" pages="23">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2591,9 +2591,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qlMA14iQ-_H77syIawnz-1" value="兑换请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="128" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qlMA14iQ-_H77syIawnz-2" value="兑换请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qlMA14iQ-_H77syIawnz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="qlMA14iQ-_H77syIawnz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2616,6 +2616,9 @@
         </mxCell>
         <mxCell id="qlMA14iQ-_H77syIawnz-9" value="券状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="353" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlMA14iQ-_H77syIawnz-10" value="本地兑换记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
