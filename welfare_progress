@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T13:38:33.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="f9dTTWUfZZcNh6a6GkEz" version="17.4.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-04-23T13:40:46.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mR2B8x2rTpwMOTRk2ZQI" version="17.4.6" type="github" pages="24">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1296" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2174,7 +2174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="awhmBhVBtGKxkahjnyi-" name="model_janitor">
-    <mxGraphModel dx="432" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="475" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2217,14 +2217,54 @@
         <mxCell id="f9JqMMFWYAugZD7lJTcw-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-3" target="i4rAmItgdW9PY-l-5jO1-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-3" target="i4rAmItgdW9PY-l-5jO1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-3" target="i4rAmItgdW9PY-l-5jO1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-3" value="每日领券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="230" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-4" target="i4rAmItgdW9PY-l-5jO1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-4" target="i4rAmItgdW9PY-l-5jO1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-4" target="i4rAmItgdW9PY-l-5jO1-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-4" value="助力领券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-5" target="i4rAmItgdW9PY-l-5jO1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-5" target="i4rAmItgdW9PY-l-5jO1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-5" value="抽奖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="230" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-6" target="i4rAmItgdW9PY-l-5jO1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-6" target="i4rAmItgdW9PY-l-5jO1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" edge="1" parent="1" source="i4rAmItgdW9PY-l-5jO1-6" target="i4rAmItgdW9PY-l-5jO1-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-6" value="兑换券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="230" y="360" width="90" height="40" as="geometry" />
