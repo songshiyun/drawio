@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T04:06:01.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jfJbeXjDht5zaPeu5TxP" version="17.4.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-04-24T04:06:08.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pd8_Cw3GOpObIsfYeBOw" version="17.4.6" type="github" pages="12">
   <diagram id="dfJA07oYbQzZmQWc-qDI" name="janitor_mode">
     <mxGraphModel dx="1883" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -623,7 +623,7 @@
           <mxGeometry x="120" y="150" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="25vTPWow2k4o_km2vQWt-1" value="Nuwa框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="560" height="40" as="geometry" />
+          <mxGeometry x="80" y="320" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="25vTPWow2k4o_km2vQWt-3" value="券能力&lt;br&gt;封装" style="rounded=1;whiteSpace=wrap;html=1;opacity=70;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="450" y="220" width="60" height="60" as="geometry" />
