@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T13:24:05.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PD_-R95cgp12_U-jodoI" version="17.4.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-24T13:24:41.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JU2KdxRQ4vxd6perJFHW" version="17.4.6" type="github" pages="8">
   <diagram id="ADzAfHV679DMl9CqkASf" name="Page-1">
     <mxGraphModel dx="1883" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -485,7 +485,7 @@
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-113" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="183" y="311.31" width="20" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="9C9d2gnG7YkFuG1FPWnz-114" value="能源券系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="9C9d2gnG7YkFuG1FPWnz-114" value="代币系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="423" y="450.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9C9d2gnG7YkFuG1FPWnz-115" value="消息号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;gradientDirection=east;strokeWidth=1;" parent="1" vertex="1">
