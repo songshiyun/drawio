@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T12:07:05.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YPi2WWmGcdNhDaLnCoEw" version="17.4.6" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-05-08T12:08:09.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EeVmgT_4KNxCt4fBBF_X" version="17.4.6" type="github" pages="25">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2639,13 +2639,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wVlsbhcy5aWNe4NAeg70-1" value="参与活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wVlsbhcy5aWNe4NAeg70-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="wVlsbhcy5aWNe4NAeg70-1" target="wVlsbhcy5aWNe4NAeg70-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVlsbhcy5aWNe4NAeg70-1" value="参与活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wVlsbhcy5aWNe4NAeg70-2" value="完成动作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wVlsbhcy5aWNe4NAeg70-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="wVlsbhcy5aWNe4NAeg70-2" target="wVlsbhcy5aWNe4NAeg70-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVlsbhcy5aWNe4NAeg70-2" value="完成动作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wVlsbhcy5aWNe4NAeg70-3" value="获得奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wVlsbhcy5aWNe4NAeg70-3" value="获得奖励" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
