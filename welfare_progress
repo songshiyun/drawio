@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T14:49:21.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nwrC3e-R4qdpk0-kDEl0" version="18.0.2" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2022-05-10T14:50:48.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UpsXgVRv0ft9OAm4fBvJ" version="18.0.2" type="github" pages="26">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2174,7 +2174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="awhmBhVBtGKxkahjnyi-" name="model_janitor">
-    <mxGraphModel dx="1298" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="433" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2268,7 +2268,7 @@
         <mxCell id="f9JqMMFWYAugZD7lJTcw-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" parent="1" source="i4rAmItgdW9PY-l-5jO1-6" target="i4rAmItgdW9PY-l-5jO1-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9JqMMFWYAugZD7lJTcw-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" parent="1" source="i4rAmItgdW9PY-l-5jO1-6" target="i4rAmItgdW9PY-l-5jO1-13" edge="1">
+        <mxCell id="f9JqMMFWYAugZD7lJTcw-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeWidth=1;" parent="1" source="i4rAmItgdW9PY-l-5jO1-6" target="i4rAmItgdW9PY-l-5jO1-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4rAmItgdW9PY-l-5jO1-6" value="兑换券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -2312,6 +2312,15 @@
         </mxCell>
         <mxCell id="m569EAhWMps6cnmhfH-N-6" value="&lt;font color=&quot;#ff0000&quot;&gt;领&lt;br&gt;券&lt;br&gt;后&lt;br&gt;端&lt;br&gt;服&lt;br&gt;务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m569EAhWMps6cnmhfH-N-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="m569EAhWMps6cnmhfH-N-7" target="i4rAmItgdW9PY-l-5jO1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m569EAhWMps6cnmhfH-N-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="m569EAhWMps6cnmhfH-N-7" target="i4rAmItgdW9PY-l-5jO1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m569EAhWMps6cnmhfH-N-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="m569EAhWMps6cnmhfH-N-7" target="i4rAmItgdW9PY-l-5jO1-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m569EAhWMps6cnmhfH-N-7" value="天降券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="369" y="391" width="90" height="40" as="geometry" />
