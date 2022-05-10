@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T15:14:51.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wPy9OY285jkxeDRO8NFN" version="18.0.2" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-05-10T15:15:52.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Hd26LSHPlsrE2gL8ykJW" version="18.0.2" type="github" pages="27">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2787,55 +2787,55 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-1" target="zObVpNP4AuGw1bmSvLxo-2">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-1" target="zObVpNP4AuGw1bmSvLxo-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-1" value="福利直通车秒杀" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-1" value="福利直通车秒杀" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-2" target="zObVpNP4AuGw1bmSvLxo-3">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-2" target="zObVpNP4AuGw1bmSvLxo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-2" value="benefit.git" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-2" value="benefit.git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="105" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-4" target="zObVpNP4AuGw1bmSvLxo-5">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-4" target="zObVpNP4AuGw1bmSvLxo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-4" value="节假日营销秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-4" value="节假日营销秒杀领券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-5" target="zObVpNP4AuGw1bmSvLxo-6">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-5" target="zObVpNP4AuGw1bmSvLxo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-5" value="activityv3.git" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-5" value="activityv3.git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="175" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-10" target="zObVpNP4AuGw1bmSvLxo-5">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-10" target="zObVpNP4AuGw1bmSvLxo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-10" value="拼车助力领券" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-10" value="拼车助力领券" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-19" target="zObVpNP4AuGw1bmSvLxo-20">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-19" target="zObVpNP4AuGw1bmSvLxo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-19" value="薅羊毛天降" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-19" value="薅羊毛天降" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-20" target="zObVpNP4AuGw1bmSvLxo-21">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#FF0000;endArrow=openThin;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="zObVpNP4AuGw1bmSvLxo-20" target="zObVpNP4AuGw1bmSvLxo-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-20" value="lucina.git" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-20" value="lucina.git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zObVpNP4AuGw1bmSvLxo-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="zObVpNP4AuGw1bmSvLxo-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="245" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
