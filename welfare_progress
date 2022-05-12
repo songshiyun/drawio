@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T11:57:29.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xSOBL3hMLF460VD8hIcz" version="18.0.2" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-05-12T12:06:41.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="onVU5hvTGfQTyIrql02n" version="18.0.2" type="github" pages="28">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2842,7 +2842,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="evAtuRdf_XWsLZ5ZEweP" name="shipframe">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2953,6 +2953,18 @@
         </mxCell>
         <mxCell id="5XSmHA-pDpflsq2hWqg4-40" value="裂变开放平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-41" value="ApiAggregator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-42" value="log适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-43" value="lock wrapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="263" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-44" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(248, 248, 242); background-color: rgb(40, 42, 54); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 23px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f8f8f2;&quot;&gt;ApiAggregator&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
