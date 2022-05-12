@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T11:36:21.666Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MoY_QjcjhUMOiGpwUKS4" version="18.0.2" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-05-12T11:37:03.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nBt_gKHNXi0R99ROlnIN" version="18.0.2" type="github" pages="28">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2891,7 +2891,7 @@
         <mxCell id="5XSmHA-pDpflsq2hWqg4-16" value="logger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="323" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5XSmHA-pDpflsq2hWqg4-17" value="Gorm2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-17" value="cyberhttp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="323" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5XSmHA-pDpflsq2hWqg4-18" value="Gorm2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2911,6 +2911,18 @@
         </mxCell>
         <mxCell id="5XSmHA-pDpflsq2hWqg4-23" value="日志聚合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="385" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-25" value="log适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="347" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-26" value="Hint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="347" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-27" value="log适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="385" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-28" value="Hint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="385" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
