@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T11:45:04.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8bCVd36JJZHy1MAe_qkL" version="18.0.2" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-05-12T11:45:13.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jamhZDQMESvvHvVVFoI0" version="18.0.2" type="github" pages="28">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2945,7 +2945,7 @@
         <mxCell id="5XSmHA-pDpflsq2hWqg4-36" value="裂变中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="115" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5XSmHA-pDpflsq2hWqg4-38" value="营销中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-38" value="滴滴联盟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="115" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5XSmHA-pDpflsq2hWqg4-39" value="营销中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
