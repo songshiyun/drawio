@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T12:31:33.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8cpoNx-QxwjrtX-N1q0h" version="18.0.2" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-05-12T12:31:41.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="z96x3qELr2owyPg8Eao5" version="18.0.2" type="github" pages="28">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3014,7 +3014,7 @@
           <mxGeometry x="521.5" y="263" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vNkY7SpHf6tbTy6yGbeN-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;ShipFrame业务框架&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="306.5" y="172" width="149" height="30" as="geometry" />
+          <mxGeometry x="306.5" y="170" width="149" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
