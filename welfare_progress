@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T11:42:17.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="l-U6u41y9vw4XdSzEJOf" version="18.0.2" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-05-12T11:42:59.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4sDLPGnu0w1fLvwjceI9" version="18.0.2" type="github" pages="28">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2935,6 +2935,9 @@
         </mxCell>
         <mxCell id="5XSmHA-pDpflsq2hWqg4-32" value="NUWA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="28" y="450" width="704" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5XSmHA-pDpflsq2hWqg4-33" value="NUWA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="110" width="704" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
