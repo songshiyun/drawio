@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T07:42:09.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AGWObREDv_hS81iyF52U" version="18.0.3" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-05-13T07:42:33.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yZ4_RM1Gpa_VQ6Tbyflz" version="18.0.3" type="github" pages="29">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3048,7 +3048,7 @@
         <mxCell id="B-Wj_GJp1bkM7ntABE28-10" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;go embed config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="133" y="346" width="98" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B-Wj_GJp1bkM7ntABE28-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;go embed config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="B-Wj_GJp1bkM7ntABE28-12" value="配置注册接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="238" y="346" width="98" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B-Wj_GJp1bkM7ntABE28-13" value="ConfigLoader" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
