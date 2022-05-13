@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T07:31:10.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VfAThEgA0Cc2SQMv0qqq" version="18.0.3" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-05-13T07:34:06.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Obnfc9J1Et_oyC0vhVt9" version="18.0.3" type="github" pages="29">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3030,11 +3030,11 @@
         <mxCell id="B-Wj_GJp1bkM7ntABE28-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="B-Wj_GJp1bkM7ntABE28-2" value="业务系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B-Wj_GJp1bkM7ntABE28-2" value="业务系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="225" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B-Wj_GJp1bkM7ntABE28-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="291" width="290" height="90" as="geometry" />
+          <mxGeometry x="100" y="291" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
