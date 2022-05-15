@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T05:18:35.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1gVH26qqdz-1mdsjdbMC" version="18.0.3" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2022-05-15T05:18:46.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="r28VH4GOCInAbfSxUaj1" version="18.0.3" type="github" pages="30">
   <diagram id="F7mQEHuLT6AHOFkjcS7V" name="welfare_model">
     <mxGraphModel dx="1298" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3092,37 +3092,37 @@
         <mxCell id="FJqu2hf59WhjCxMG0EYd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJqu2hf59WhjCxMG0EYd-8" target="FJqu2hf59WhjCxMG0EYd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJqu2hf59WhjCxMG0EYd-8" value="Dpub头图规则配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJqu2hf59WhjCxMG0EYd-8" value="Dpub头图规则配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="127" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJqu2hf59WhjCxMG0EYd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJqu2hf59WhjCxMG0EYd-10" target="FJqu2hf59WhjCxMG0EYd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJqu2hf59WhjCxMG0EYd-10" value="Apollo领券配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJqu2hf59WhjCxMG0EYd-10" value="Apollo领券配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-40" y="196" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJqu2hf59WhjCxMG0EYd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJqu2hf59WhjCxMG0EYd-12" target="FJqu2hf59WhjCxMG0EYd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJqu2hf59WhjCxMG0EYd-12" value="业务工作台签到策略配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJqu2hf59WhjCxMG0EYd-12" value="业务工作台签到策略配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="336" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJqu2hf59WhjCxMG0EYd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJqu2hf59WhjCxMG0EYd-14" target="FJqu2hf59WhjCxMG0EYd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJqu2hf59WhjCxMG0EYd-14" value="赤兔裂变助力配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJqu2hf59WhjCxMG0EYd-14" value="赤兔裂变助力配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJqu2hf59WhjCxMG0EYd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJqu2hf59WhjCxMG0EYd-16" target="FJqu2hf59WhjCxMG0EYd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJqu2hf59WhjCxMG0EYd-16" value="Apollo底导资源位配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJqu2hf59WhjCxMG0EYd-16" value="Apollo底导资源位配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-40" y="409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FJqu2hf59WhjCxMG0EYd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJqu2hf59WhjCxMG0EYd-18" target="FJqu2hf59WhjCxMG0EYd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FJqu2hf59WhjCxMG0EYd-18" value="Apollo天降策略配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FJqu2hf59WhjCxMG0EYd-18" value="Apollo天降策略配置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-40" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
