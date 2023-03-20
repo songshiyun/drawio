@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T04:40:04.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="p2k2PO19mDrilt2tXGrj" version="20.8.23" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-20T04:41:16.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="18UFBYJfo8UEprtS_Lv9" version="20.8.23" type="github" pages="5">
   <diagram id="NWhZimJA6qQcaquK7ZAS" name="brick-online">
     <mxGraphModel dx="2261" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -853,6 +853,15 @@
         </mxCell>
         <mxCell id="Gw0LCNNlkxq3Ce2adTbY-53" value="aps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="364" y="53" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw0LCNNlkxq3Ce2adTbY-54" value="aps-proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="303" y="272" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw0LCNNlkxq3Ce2adTbY-56" value="webx对外服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="119" y="273" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gw0LCNNlkxq3Ce2adTbY-57" value="Lego" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="666" y="407" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
