@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T06:40:46.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="62qoVn-TzPy29vVy-9be" version="20.8.23" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-20T06:41:32.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tB1KgF0R9EYom82R9Rpw" version="20.8.23" type="github" pages="6">
   <diagram id="NWhZimJA6qQcaquK7ZAS" name="brick-online">
     <mxGraphModel dx="2261" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -873,11 +873,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3asqrNW4xs_wB5MsIlZ" name="lego_带prodkey">
-    <mxGraphModel dx="478" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_MMB3oEdvKMZ7QEuLCPY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;opacity=60;" vertex="1" parent="1">
+        <mxCell id="_MMB3oEdvKMZ7QEuLCPY-1" value="活动发布" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="71" height="360" as="geometry" />
         </mxCell>
         <mxCell id="_MMB3oEdvKMZ7QEuLCPY-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;opacity=60;" vertex="1" parent="1">
