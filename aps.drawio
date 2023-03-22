@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T05:28:03.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cef_xDf49tilnzsKsPav" version="20.8.23" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-03-22T05:28:13.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fvInogsENjjf8S28-Oo0" version="20.8.23" type="github" pages="9">
   <diagram id="NWhZimJA6qQcaquK7ZAS" name="brick-online">
     <mxGraphModel dx="2133" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1425,7 +1425,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o9CRVtootXKW5sTV7y_U-1" value="创建实验" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="o9CRVtootXKW5sTV7y_U-1" value="发布实验" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130.00000000000045" y="60" width="590" height="580" as="geometry" />
         </mxCell>
         <mxCell id="o9CRVtootXKW5sTV7y_U-2" value="赤兔前端" style="swimlane;startSize=20;html=1;dashed=1;" vertex="1" parent="o9CRVtootXKW5sTV7y_U-1">
